@@ -12,9 +12,6 @@ More than 700 English and 500 Turkish taboo data that you can use wherever you w
 
 
 
-
-## Example Parse
-
 ### Model (with Dart)
 ```dart
 // To parse this JSON data, do
