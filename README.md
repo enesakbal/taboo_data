@@ -16,7 +16,7 @@ More than 700 English and 500 Turkish taboo data that you can use wherever you w
 
 ## Example Parse
 
-### Model
+### Model (with Dart)
 ```dart
 class TabooModel {
   final String? word;
