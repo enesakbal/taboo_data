@@ -1,0 +1,8263 @@
+[
+  {
+    "_language": "EN",
+    "word": "Jogging",
+    "forbidden_words": [
+      "Morning",
+      "Running",
+      "Slow",
+      "Warm-Up",
+      "Exercise"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Flattery",
+    "forbidden_words": [
+      "Praise",
+      "False",
+      "Lie",
+      "Insincere",
+      "Compliment"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "All-Rounder",
+    "forbidden_words": [
+      "Multiple",
+      "Talented",
+      "Cricketer",
+      "Different",
+      "Perform"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Senorita",
+    "forbidden_words": [
+      "Spanish",
+      "Women",
+      "Song",
+      "Word",
+      "Title"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Myth",
+    "forbidden_words": [
+      "False",
+      "Belief",
+      "Story",
+      "Legend",
+      "Past"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Spit",
+    "forbidden_words": [
+      "Liquid",
+      "Tobacco",
+      "Mouth",
+      "Saliva",
+      "Content"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Objective",
+    "forbidden_words": [
+      "Mcq",
+      "Aim",
+      "Motive",
+      "Subjective",
+      "Unbiased"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jaw",
+    "forbidden_words": [
+      "Bones",
+      "Chew",
+      "Mouth",
+      "Teeth",
+      "Upper"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Backbencher",
+    "forbidden_words": [
+      "Seat",
+      "Last",
+      "Front",
+      "Classroom",
+      "Noise"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Winter",
+    "forbidden_words": [
+      "Cold",
+      "Summer",
+      "Season",
+      "Coming",
+      "Temperature"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Karaoke",
+    "forbidden_words": [
+      "Sing",
+      "Along",
+      "Words",
+      "Drunk",
+      "Room"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Starters",
+    "forbidden_words": [
+      "Variety",
+      "Before",
+      "Meals",
+      "Tikka",
+      "Manchurian"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Navel",
+    "forbidden_words": [
+      "Belly",
+      "Stomach",
+      "Skin",
+      "Abdomen",
+      "Hole"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Parcel",
+    "forbidden_words": [
+      "Courier",
+      "Deliver",
+      "Package",
+      "Collection",
+      "Object"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Oil",
+    "forbidden_words": [
+      "Petrol",
+      "Cooking",
+      "Sunflower",
+      "Saffola",
+      "Liquid"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Message",
+    "forbidden_words": [
+      "Text",
+      "Sms",
+      "Whatsapp",
+      "Instagram",
+      "Phone"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Long-Weekend",
+    "forbidden_words": [
+      "Holiday",
+      "Leave",
+      "Consecutive",
+      "Non-Working",
+      "Vacation"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Remake",
+    "forbidden_words": [
+      "Release",
+      "Already",
+      "Repeat",
+      "Same",
+      "Movie"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Toilet",
+    "forbidden_words": [
+      "Bathroom",
+      "Sanitation",
+      "Relieve",
+      "Leak",
+      "Dump"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Television",
+    "forbidden_words": [
+      "Idiot Box",
+      "Serial",
+      "Watch",
+      "Front",
+      "Remote"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Talkative",
+    "forbidden_words": [
+      "Speak",
+      "Much",
+      "Lot",
+      "Communicate",
+      "Chatty"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Single",
+    "forbidden_words": [
+      "One",
+      "Status",
+      "Break-Up",
+      "Songs",
+      "Girlfriend"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Producer",
+    "forbidden_words": [
+      "Movies",
+      "Money",
+      "Invests",
+      "Film",
+      "Example"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Dinner",
+    "forbidden_words": [
+      "Night ",
+      "Meal",
+      "Food",
+      "Last",
+      "Sleep"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Breakup",
+    "forbidden_words": [
+      "Split",
+      "Divide",
+      "End",
+      "Relationship",
+      "Terminate"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tea",
+    "forbidden_words": [
+      "Drink",
+      "Morning",
+      "Cup",
+      "Liquid",
+      "Break"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lawn",
+    "forbidden_words": [
+      "Green",
+      "Yard",
+      "Grass",
+      "Mow",
+      "Garden"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Grandmother",
+    "forbidden_words": [
+      "Father",
+      "Ancestor",
+      "Family",
+      "Elderly",
+      "Generation"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Stereotype",
+    "forbidden_words": [
+      "Generalised",
+      "Mistaken",
+      "Expectation",
+      "View",
+      "Simplified"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Villain",
+    "forbidden_words": [
+      "Bad",
+      "Anti-Hero",
+      "Mogambo",
+      "Gabbar Singh",
+      "Mogambo"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Work",
+    "forbidden_words": [
+      "Pension",
+      "Retired",
+      "Relax",
+      "Office",
+      "Holiday"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Samosa",
+    "forbidden_words": [
+      "Snacks",
+      "Aloo",
+      "Vegetable",
+      "Eatable",
+      "Chutney"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Pubg",
+    "forbidden_words": [
+      "Game",
+      "Mobile",
+      "Battle",
+      "Popular",
+      "Multiplayer"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lunchbox",
+    "forbidden_words": [
+      "Tiffin",
+      "Food",
+      "Container",
+      "Meals",
+      "Break"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Climb",
+    "forbidden_words": [
+      "Angle",
+      "Steep",
+      "Mountain",
+      "Hill",
+      "Stairs"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gum",
+    "forbidden_words": [
+      "Teeth",
+      "Chew",
+      "Food",
+      "Fevicol",
+      "Adhesive"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Vegetarian",
+    "forbidden_words": [
+      "Non",
+      "Animals",
+      "Plants",
+      "Kill",
+      "Eating"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Disco",
+    "forbidden_words": [
+      "Dance",
+      "Party",
+      "Place",
+      "Celebrate",
+      "Alcohol"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Naachos",
+    "forbidden_words": [
+      "Crispy",
+      "Tasty",
+      "Food",
+      "Restaurant",
+      "Tortilla"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Terrible",
+    "forbidden_words": [
+      "Disaster",
+      "Tragedy",
+      "Sad",
+      "Victim",
+      "Bad"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Puncture",
+    "forbidden_words": [
+      "Tyre",
+      "Air ",
+      "Wheel",
+      "Deflate",
+      "Hole"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Scooter",
+    "forbidden_words": [
+      "Two-Wheeler",
+      "Bike",
+      "Motorcycle",
+      "Bajaj",
+      "Vehicle"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Whiskey",
+    "forbidden_words": [
+      "Drink",
+      "Alcohol",
+      "Type",
+      "Similar",
+      "Party"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Child",
+    "forbidden_words": [
+      "School",
+      "Educate",
+      "Teach",
+      "Learn",
+      "Baby"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lipstick",
+    "forbidden_words": [
+      "Red",
+      "Face",
+      "Woman",
+      "Ladies",
+      "Apply"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Whisper",
+    "forbidden_words": [
+      "Speak ",
+      "Soft ",
+      "Ear",
+      "Secret ",
+      "Loud"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Soldier",
+    "forbidden_words": [
+      "Battle",
+      "Warrior",
+      "War",
+      "Attack",
+      "Army"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Honey Singh",
+    "forbidden_words": [
+      "Singer",
+      "Girls",
+      "Rapper",
+      "Brown Rang",
+      "High Heels"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Pearl",
+    "forbidden_words": [
+      "Jewelry",
+      "Diver",
+      "Oyster",
+      "White",
+      "Expensive"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Boat",
+    "forbidden_words": [
+      "Top",
+      "Float",
+      "Water",
+      "Surface",
+      "House"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ayodhya",
+    "forbidden_words": [
+      "Ram",
+      "Babri",
+      "Holy",
+      "Birthplace",
+      "U.P"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Belt",
+    "forbidden_words": [
+      "Waist",
+      "Buckle",
+      "Leather",
+      "Black",
+      "Worn"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Viva",
+    "forbidden_words": [
+      "Oral ",
+      "Face-Face",
+      "Teacher",
+      "word",
+      "Test"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "City",
+    "forbidden_words": [
+      "Live",
+      "Suburb",
+      "Outside",
+      "Quiet",
+      "Town"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Chicken",
+    "forbidden_words": [
+      "Oil",
+      "Fried",
+      "Cook",
+      "Food",
+      "Hen"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fragile",
+    "forbidden_words": [
+      "Glass",
+      "Careful",
+      "Delicate",
+      "Broken",
+      "Damaged"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Responsibility",
+    "forbidden_words": [
+      "Ownership",
+      "Accountable",
+      "Report",
+      "Control",
+      "Moral"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Wonderful",
+    "forbidden_words": [
+      "Unbelievable",
+      "Marvellous",
+      "Amazing",
+      "Great ",
+      "Fantastic"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Export",
+    "forbidden_words": [
+      "Product",
+      "Import",
+      "Foreign",
+      "Expensive",
+      "Country"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Adult",
+    "forbidden_words": [
+      "Responsibilities",
+      "Mature",
+      "Child",
+      "Grown Up",
+      "Eighteen"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gabbar Singh",
+    "forbidden_words": [
+      "Sholay",
+      "Basanti",
+      "Thakur",
+      "Amitabh",
+      "Dharmendra"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Vest",
+    "forbidden_words": [
+      "Banyan",
+      "Ganji",
+      "Sleeveless",
+      "Cloth",
+      "Men"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Grave",
+    "forbidden_words": [
+      "Dig",
+      "Funeral",
+      "Bury",
+      "Cemetery",
+      "Dead"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Photoshop",
+    "forbidden_words": [
+      "Software",
+      "Editing",
+      "Images",
+      "Pictures",
+      "Adobe"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Biceps",
+    "forbidden_words": [
+      "Triceps",
+      "Gym",
+      "Dumbells",
+      "Muscles",
+      "Arms"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cigar",
+    "forbidden_words": [
+      "Tobacco",
+      "Cigarette",
+      "Cuban",
+      "Smoke",
+      "Nicotine"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Johny Lever",
+    "forbidden_words": [
+      "Comedy",
+      "Bollywood",
+      "Actor",
+      "Stand-Up",
+      "Funny"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Thanks",
+    "forbidden_words": [
+      "Welcome",
+      "Appreciate",
+      "Gratitude",
+      "Grateful",
+      "Express"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Nun",
+    "forbidden_words": [
+      "Priest",
+      "Sister",
+      "Catholic",
+      "Woman",
+      "Convent"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Celebrity",
+    "forbidden_words": [
+      "Stars",
+      "Recognised ",
+      "Media",
+      "Famous",
+      "Actor"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Flamboyant",
+    "forbidden_words": [
+      "Stylish",
+      "Cool",
+      "Confident",
+      "Lively",
+      "Impressive"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Intelligent",
+    "forbidden_words": [
+      "Smart",
+      "Quick",
+      "Fast",
+      "Marks",
+      "First"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Constipated",
+    "forbidden_words": [
+      "Morning",
+      "Bowel",
+      "Toilet",
+      "Tough",
+      "Difficult"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Horror",
+    "forbidden_words": [
+      "Frighten",
+      "Fear",
+      "Movie",
+      "Genre",
+      "Scary"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jugs",
+    "forbidden_words": [
+      "Jar",
+      "Container ",
+      "Big ",
+      "Rack ",
+      "Liquid"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cooperate",
+    "forbidden_words": [
+      "Unite",
+      "Help",
+      "Together",
+      "Everyone",
+      "Support"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ridiculous",
+    "forbidden_words": [
+      "Stupid",
+      "Unbelievable",
+      "Senseless",
+      "Absurd",
+      "Foolish"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Blink",
+    "forbidden_words": [
+      "Eye ",
+      "Wink",
+      "See",
+      "Look",
+      "Open"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Syrup",
+    "forbidden_words": [
+      "Maple",
+      "Butter",
+      "Pancakes",
+      "Sweet",
+      "Liquid"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Grass",
+    "forbidden_words": [
+      "Green",
+      "Garden",
+      "Walk",
+      "Park",
+      "Plant"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Couple",
+    "forbidden_words": [
+      "Two",
+      "Relationship",
+      "Together",
+      "Married",
+      "Combine"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tavern",
+    "forbidden_words": [
+      "Drink",
+      "Whiskey",
+      "Alcohol",
+      "People",
+      "Place"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "People",
+    "forbidden_words": [
+      "Street",
+      "Crowd",
+      "Many",
+      "Herd",
+      "Humans"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Peacock",
+    "forbidden_words": [
+      "Dance",
+      "Rains",
+      "Colourful",
+      "Bird",
+      "Plumage"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jeans",
+    "forbidden_words": [
+      "Levis",
+      "Denim",
+      "Wrangler",
+      "Wear",
+      "Legs"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Survey",
+    "forbidden_words": [
+      "Opinion",
+      "Fill Out",
+      "Ask",
+      "words",
+      "Examine"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lehenga",
+    "forbidden_words": [
+      "Marriage",
+      "Special",
+      "Dress",
+      "Girls",
+      "Women"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ankle",
+    "forbidden_words": [
+      "Foot",
+      "Break",
+      "Sprain",
+      "Leg",
+      "Knee"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Full House",
+    "forbidden_words": [
+      "Tickets",
+      "Occupied",
+      "Availaible",
+      "Seat",
+      "Filled"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Drought",
+    "forbidden_words": [
+      "Desert",
+      "Rain",
+      "Water",
+      "Dry",
+      "Fail"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Breakfast",
+    "forbidden_words": [
+      "Morning",
+      "Meal",
+      "Food",
+      "Dishes",
+      "Time"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Nail",
+    "forbidden_words": [
+      "Tool",
+      "Hammer",
+      "Swing",
+      "Build",
+      "Cut"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Boss",
+    "forbidden_words": [
+      "Manager",
+      "Senior",
+      "Relationship",
+      "Report",
+      "Top"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fantasy",
+    "forbidden_words": [
+      "Imagination",
+      "Think",
+      "Impossible",
+      "Believe",
+      "League"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Party",
+    "forbidden_words": [
+      "Fun",
+      "Friday ",
+      "Dance",
+      "Music",
+      "Enjoy"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Goggles",
+    "forbidden_words": [
+      "Sunglassses",
+      "Glares",
+      "Eyewear",
+      "Equipment",
+      "Enclose"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Pollution",
+    "forbidden_words": [
+      "Delhi",
+      "Air ",
+      "Quality",
+      "Harmful",
+      "Poisionous"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Traffic",
+    "forbidden_words": [
+      "Vehicles",
+      "Road",
+      "Cars",
+      "Population",
+      "Transport"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bed",
+    "forbidden_words": [
+      "Clothes",
+      "Pajamas",
+      "Night",
+      "Sleepover",
+      "Mattress"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Necklace",
+    "forbidden_words": [
+      "Women",
+      "Worn",
+      "Expensive",
+      "Body",
+      "Lady"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Doctor",
+    "forbidden_words": [
+      "Ambulance",
+      "Patient",
+      "Hospital",
+      "Sick",
+      "Person"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Snake",
+    "forbidden_words": [
+      "Slithers",
+      "Black",
+      "Reptile",
+      "Crawls",
+      "Type"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Joystick",
+    "forbidden_words": [
+      "Arcade",
+      "Atari",
+      "Airplane ",
+      "Computer ",
+      "Happy"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gray",
+    "forbidden_words": [
+      "Ride",
+      "Donkey",
+      "Cart",
+      "Stubborn",
+      "Shade"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Barber",
+    "forbidden_words": [
+      "Hairdresser",
+      "Salon",
+      "Cut",
+      "Person",
+      "Hair"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Thug",
+    "forbidden_words": [
+      "Violent ",
+      "Criminal",
+      "Gang",
+      "Robber",
+      "Swindler"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lottery",
+    "forbidden_words": [
+      "Gambling",
+      "Lucky",
+      "Money",
+      "Ticket",
+      "Win"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Whatsapp",
+    "forbidden_words": [
+      "Chat",
+      "Message",
+      "Friends",
+      "Family",
+      "App"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Taxes",
+    "forbidden_words": [
+      "Money",
+      "Salary",
+      "Deduct",
+      "Government",
+      "Income"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Prisoner",
+    "forbidden_words": [
+      "Guard",
+      "Crime",
+      "Punish",
+      "Criminal",
+      "Jail"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Devdas",
+    "forbidden_words": [
+      "Shahrukh",
+      "Aishwarya",
+      "Character",
+      "Bhansali",
+      "Movie"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Exam",
+    "forbidden_words": [
+      "Test",
+      "Marks",
+      "Board",
+      "Pass",
+      "Clear"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Election",
+    "forbidden_words": [
+      "Leader",
+      "Vote",
+      "Democracy",
+      "National",
+      "Government"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Shopping",
+    "forbidden_words": [
+      "Buy",
+      "E-Commerce",
+      "Purchase",
+      "Clothes",
+      "Electronics"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Appraisal",
+    "forbidden_words": [
+      "Salary",
+      "Increment",
+      "Income",
+      "Raise",
+      "Hike"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cliffhanger",
+    "forbidden_words": [
+      "Tense",
+      "Exciting",
+      "Movie",
+      "Ending",
+      "Situation"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Veteran",
+    "forbidden_words": [
+      "Old",
+      "Experienced",
+      "Knows",
+      "Elder ",
+      "Person"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Road-Trip",
+    "forbidden_words": [
+      "Holiday",
+      "Vacation",
+      "Drive",
+      "Vehicle",
+      "Journey"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Prank",
+    "forbidden_words": [
+      "Joke ",
+      "Surprise ",
+      "Hidden ",
+      "Punk ",
+      "Trick"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Anxious",
+    "forbidden_words": [
+      "Nervous",
+      "Afraid",
+      "Fear",
+      "Worried",
+      "Uneasy"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Paparazzi",
+    "forbidden_words": [
+      "Media",
+      "Photographers",
+      "Celebrity",
+      "Pictures",
+      "Follow"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Charger",
+    "forbidden_words": [
+      "Mobile",
+      "Electricity",
+      "Battery",
+      "Switch",
+      "Adaptor"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Chart",
+    "forbidden_words": [
+      "Visual",
+      "Data",
+      "Graph",
+      "Numbers",
+      "Excel"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Elephant",
+    "forbidden_words": [
+      "Animal",
+      "Huge",
+      "Trunk",
+      "Ivory",
+      "Teeth"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Deer",
+    "forbidden_words": [
+      "Animal",
+      "Hunt",
+      "Gun",
+      "Woods",
+      "Forest"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "House",
+    "forbidden_words": [
+      "Expensive",
+      "Mansion",
+      "Home",
+      "Live",
+      "Place"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Surgeon",
+    "forbidden_words": [
+      "Operation",
+      "Hospital",
+      "Doctor",
+      "Surgery",
+      "Patient"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Intoxicant",
+    "forbidden_words": [
+      "Drugs",
+      "Type",
+      "Psychedelic",
+      "Harmful",
+      "Drinks"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Boyfriend",
+    "forbidden_words": [
+      "Partner",
+      "Couple",
+      "Girl",
+      "Male ",
+      "Relationship"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Engineer",
+    "forbidden_words": [
+      "Non-Medical",
+      "Btech",
+      "Stream",
+      "Profession",
+      "Branch"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Hair",
+    "forbidden_words": [
+      "Shave",
+      "Body",
+      "Beard",
+      "Head",
+      "Bald"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Swimming",
+    "forbidden_words": [
+      "Water",
+      "Strokes",
+      "Pool",
+      "Float",
+      "Phelps"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sale",
+    "forbidden_words": [
+      "Discount",
+      "Festive",
+      "Lowered",
+      "Price",
+      "Reduced"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Delivery",
+    "forbidden_words": [
+      "Give",
+      "Food",
+      "Package",
+      "Reach",
+      "Buy"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Downpour",
+    "forbidden_words": [
+      "Rain",
+      "Torrent",
+      "Heavy",
+      "Thunderstorm",
+      "Flood"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Pillow",
+    "forbidden_words": [
+      "Head",
+      "Sleep",
+      "Support",
+      "Bed",
+      "Rest"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jail",
+    "forbidden_words": [
+      "Handcuffs",
+      "Arrest",
+      "Criminal",
+      "Police",
+      "Prisoner"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Handkerchief",
+    "forbidden_words": [
+      "Pocket",
+      "Sweat",
+      "Hands",
+      "Inside",
+      "Cloth"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Brunch",
+    "forbidden_words": [
+      "Combine",
+      "Meals",
+      "Together",
+      "Food",
+      "Mixture"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mix",
+    "forbidden_words": [
+      "Blend",
+      "Stir",
+      "Mingle ",
+      "Combine ",
+      "Drink"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Miser",
+    "forbidden_words": [
+      "Money",
+      "Stingy",
+      "Cheap",
+      "Spend",
+      "Little"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fusion",
+    "forbidden_words": [
+      "Mixture",
+      "Classical",
+      "Nuclear",
+      "Music",
+      "Song"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cake",
+    "forbidden_words": [
+      "Cut",
+      "Chocolate",
+      "Birthday",
+      "Bake",
+      "Celebrate"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Funnel",
+    "forbidden_words": [
+      "Chug",
+      "Frat",
+      "Oil ",
+      "Tube ",
+      "Beer"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lion",
+    "forbidden_words": [
+      "King",
+      "Jungle",
+      "Simba",
+      "Animal",
+      "Wild"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Engaged",
+    "forbidden_words": [
+      "Committed",
+      "Busy",
+      "Marriage",
+      "Ring",
+      "Occupied"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Duplicate",
+    "forbidden_words": [
+      "Shahrukh",
+      "Same",
+      "Similar",
+      "Identical",
+      "Double"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Click",
+    "forbidden_words": [
+      "Tap",
+      "Noise",
+      "Mouse",
+      "Select",
+      "Connect"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Giant",
+    "forbidden_words": [
+      "Massive",
+      "Dinosaur",
+      "Large",
+      "Big",
+      "Huge"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Politician",
+    "forbidden_words": [
+      "Scandal",
+      "Corruption",
+      "Bribe",
+      "Government",
+      "Leader"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Buffalo",
+    "forbidden_words": [
+      "Milk",
+      "Cow",
+      "Animal",
+      "Four",
+      "Oxen"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Trolley",
+    "forbidden_words": [
+      "Airport",
+      "Luggage",
+      "Stuff",
+      "Baggage",
+      "Wheels"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Slipper",
+    "forbidden_words": [
+      "Feet",
+      "Chappal",
+      "Hawai",
+      "Sandal",
+      "Bata"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Rooster",
+    "forbidden_words": [
+      "Chicken",
+      "Cock",
+      "Crow ",
+      "Male ",
+      "Hen"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Rugby",
+    "forbidden_words": [
+      "Newzealand",
+      "Run",
+      "Rough",
+      "Blood",
+      "Australia"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mushroom",
+    "forbidden_words": [
+      "Fungus",
+      "Sauce",
+      "White",
+      "Eat",
+      "Plant"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cameo",
+    "forbidden_words": [
+      "Guest",
+      "Small",
+      "Movie",
+      "Brief",
+      "Minor"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mobile",
+    "forbidden_words": [
+      "Smartphone",
+      "Call",
+      "Device",
+      "Connect",
+      "Talk"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Hardwork",
+    "forbidden_words": [
+      "Sincere",
+      "Study",
+      "Long ",
+      "Success",
+      "Poor"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gag ",
+    "forbidden_words": [
+      "Trick",
+      "Ball",
+      "Throat",
+      "Joke ",
+      "Choke"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Vodka",
+    "forbidden_words": [
+      "Alcohol",
+      "Beer",
+      "Russian",
+      "Drink",
+      "Beverage"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fishing",
+    "forbidden_words": [
+      "Bait",
+      "Hook",
+      "Water",
+      "Sea ",
+      "Ocean"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Resign",
+    "forbidden_words": [
+      "Leave",
+      "Quit",
+      "Job",
+      "Papers",
+      "Work"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Polite",
+    "forbidden_words": [
+      "Manners",
+      "Friendly",
+      "Nice",
+      "Smile",
+      "Soft"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mermaid",
+    "forbidden_words": [
+      "Ariel",
+      "Sea",
+      "Aquatic",
+      "Imaginary",
+      "Fictional"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cunning",
+    "forbidden_words": [
+      "Deceit",
+      "Evasive",
+      "Smart",
+      "Skilled",
+      "Benefit"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Soup",
+    "forbidden_words": [
+      "Tomato",
+      "Manchurian",
+      "Sweet Corn",
+      "Drink",
+      "Liquid"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Meeting",
+    "forbidden_words": [
+      "Schedule",
+      "Together",
+      "Talk",
+      "Gathering",
+      "Discuss"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Barefoot",
+    "forbidden_words": [
+      "Summer",
+      "Beach",
+      "Shoes",
+      "Socks",
+      "Slippers"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Student",
+    "forbidden_words": [
+      "School",
+      "Pupil",
+      "Kid",
+      "Young",
+      "Age"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Guitar",
+    "forbidden_words": [
+      "Rockstar",
+      "Instrument",
+      "Music",
+      "Shape",
+      "Girls"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Appreciate",
+    "forbidden_words": [
+      "Praise",
+      "Grateful",
+      "Value",
+      "Recognize",
+      "Reward"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sky",
+    "forbidden_words": [
+      "Blue",
+      "Clouds",
+      "Birds",
+      "Sun",
+      "Above"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Flood",
+    "forbidden_words": [
+      "Water",
+      "Rain",
+      "Monsoon",
+      "Year",
+      "River"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gym",
+    "forbidden_words": [
+      "Exercise",
+      "Workout",
+      "Weight",
+      "Train",
+      "Body"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Firefighter",
+    "forbidden_words": [
+      "House",
+      "Flames",
+      "Person",
+      "Emergency",
+      "Burning"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Athlete",
+    "forbidden_words": [
+      "Runner",
+      "Sportsman",
+      "Competes",
+      "Participates",
+      "Champion"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Spade",
+    "forbidden_words": [
+      "Tool",
+      "Soil",
+      "Dig",
+      "Hole",
+      "Object"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Blanket",
+    "forbidden_words": [
+      "Cold ",
+      "Cover",
+      "Warm",
+      "Quilt",
+      "Heat"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fever",
+    "forbidden_words": [
+      "Sick",
+      "Ill",
+      "Temperature",
+      "Unwell",
+      "Thermometer"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Explode",
+    "forbidden_words": [
+      "Blast",
+      "Implode",
+      "Bomb",
+      "Destroy",
+      "Burst"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Palindrome",
+    "forbidden_words": [
+      "Malyalam",
+      "Word  ",
+      "Spells",
+      "Forward",
+      "Both"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Twice",
+    "forbidden_words": [
+      "Amount",
+      "Double",
+      "Number",
+      "Triple",
+      "Two"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Internship",
+    "forbidden_words": [
+      "Job",
+      "College",
+      "Full-Time",
+      "Part-Time",
+      "Temporary"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lunch",
+    "forbidden_words": [
+      "Meal",
+      "Afternoon",
+      "Food",
+      "Eat",
+      "Home"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Dessert",
+    "forbidden_words": [
+      "Cake",
+      "Sweet",
+      "Meal ",
+      "Dinner",
+      "Food"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Goa",
+    "forbidden_words": [
+      "Party",
+      "Vacation",
+      "Holiday",
+      "Destination",
+      "Bachelors"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mogambo",
+    "forbidden_words": [
+      "Amrish Puri",
+      "Villain",
+      "Anil Kapoor",
+      "Mr. India",
+      "Hawa Hawai"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bulldozer",
+    "forbidden_words": [
+      "Demolish",
+      "Destruction",
+      "Construction",
+      "Machine",
+      "Move"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Walk",
+    "forbidden_words": [
+      "Backpack",
+      "Hike",
+      "Woods",
+      "Mountain",
+      "Cab"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sky",
+    "forbidden_words": [
+      "Blue",
+      "Outside",
+      "Sun",
+      "Over",
+      "Above"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Topper",
+    "forbidden_words": [
+      "First",
+      "Best",
+      "Highest",
+      "Studious",
+      "Sincere"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Comedy",
+    "forbidden_words": [
+      "Laugh",
+      "Funny",
+      "Humorous",
+      "Joke ",
+      "Act"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mascara",
+    "forbidden_words": [
+      "Eyelashes",
+      "Enhance",
+      "Women",
+      "Ladies",
+      "Cosmetic"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jacuzzi",
+    "forbidden_words": [
+      "Tub ",
+      "Hot ",
+      "Bubble",
+      "Jets ",
+      "Spa"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ice-Cream",
+    "forbidden_words": [
+      "Baskin Robins",
+      "Naturals",
+      "Hagen Dazs",
+      "Softy",
+      "Cone"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Recess",
+    "forbidden_words": [
+      "Break",
+      "Children",
+      "Students",
+      "Free",
+      "Lunch"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Doubt",
+    "forbidden_words": [
+      "Unsure",
+      "Uncertain",
+      "Confidence",
+      "Hesitate",
+      "word"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Detox",
+    "forbidden_words": [
+      "Cleanse",
+      "Purify",
+      "Body",
+      "Remove",
+      "Toxins"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sherwani",
+    "forbidden_words": [
+      "Men",
+      "Traditional",
+      "Dress",
+      "Kurta",
+      "Fancy"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Savage",
+    "forbidden_words": [
+      "Uncivilised",
+      "Brutal",
+      "Violent",
+      "Fierce",
+      "Vicious"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Maximum",
+    "forbidden_words": [
+      "Amount",
+      "Minimum",
+      "Lowest",
+      "Wage",
+      "Largest"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Echo",
+    "forbidden_words": [
+      "Repeat",
+      "Sound",
+      "Noise",
+      "Reflection",
+      "Audio"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mercedes",
+    "forbidden_words": [
+      "Car",
+      "Lamborghini",
+      "Automobile",
+      "Vehicle",
+      "Bmw"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ink",
+    "forbidden_words": [
+      "Tatoo",
+      "Prison",
+      "Pen ",
+      "Needle ",
+      "Draw"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Wine",
+    "forbidden_words": [
+      "Grape",
+      "White",
+      "Red ",
+      "Alcohol",
+      "Romantic"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bread",
+    "forbidden_words": [
+      "Jam",
+      "Toast",
+      "Butter",
+      "Breakfast",
+      "Eat "
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Immortal",
+    "forbidden_words": [
+      "Die ",
+      "Live ",
+      "Forever ",
+      "Eternity",
+      "Youth"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Hr",
+    "forbidden_words": [
+      "Department",
+      "Resume",
+      "Cv",
+      "Recruitment",
+      "Hiring"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ship",
+    "forbidden_words": [
+      "Wind",
+      "Sail",
+      "Boat",
+      "Ocean",
+      "Anchor"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Soap",
+    "forbidden_words": [
+      "Water",
+      "Clean",
+      "Daily",
+      "Bath",
+      "Type"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Biopic",
+    "forbidden_words": [
+      "Type",
+      "Examples",
+      "Genre",
+      "History",
+      "Biography"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bear",
+    "forbidden_words": [
+      "Wood",
+      "Brown",
+      "Black",
+      "Animal",
+      "Honey"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Corporate",
+    "forbidden_words": [
+      "Mnc",
+      "Company",
+      "Culture",
+      "Organisation",
+      "Large"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Distributor",
+    "forbidden_words": [
+      "Agent",
+      "Supplier",
+      "Owner",
+      "Shop",
+      "Businessman"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Snow",
+    "forbidden_words": [
+      "Storm",
+      "Blizzard",
+      "Cold",
+      "Weather",
+      "Ice"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Storm",
+    "forbidden_words": [
+      "Hurricane",
+      "Tornado",
+      "Wind",
+      "Damage",
+      "Violent"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Facebook",
+    "forbidden_words": [
+      "Social",
+      "Friends",
+      "Website",
+      "Company ",
+      "Family"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Grill",
+    "forbidden_words": [
+      "Fire",
+      "Meat",
+      "Barbecue",
+      "Cook",
+      "word"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Probe",
+    "forbidden_words": [
+      "Alien",
+      "Abducted",
+      "Examine",
+      "Penetrate",
+      "Interrogate"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bartender",
+    "forbidden_words": [
+      "Cocktail",
+      "Mix ",
+      "Pour ",
+      "Alcohol",
+      "Serve"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sacred",
+    "forbidden_words": [
+      "Blessed",
+      "Worship",
+      "Holy",
+      "Religious",
+      "God"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Brownie",
+    "forbidden_words": [
+      "Hash",
+      "Chocolate",
+      "Sweet ",
+      "Baked",
+      "Dessert"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Clinic",
+    "forbidden_words": [
+      "Doctor",
+      "Patient",
+      "Healthcare",
+      "Facility",
+      "Private"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Rapper",
+    "forbidden_words": [
+      "Hip-Hop",
+      "Eminem",
+      "Rhyme",
+      "Music",
+      "Sing"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Projector",
+    "forbidden_words": [
+      "Display",
+      "Screen",
+      "Show",
+      "Large",
+      "Different"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Inspire",
+    "forbidden_words": [
+      "Motivate",
+      "Uplfit",
+      "Hope",
+      "Urge",
+      "Push"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Emraan Hashmi",
+    "forbidden_words": [
+      "Kiss",
+      "Actor",
+      "Male",
+      "Movie",
+      "Hero"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Guilty ",
+    "forbidden_words": [
+      "Innocent",
+      "Pleasure",
+      "Wrong",
+      "Sorry",
+      "Criminal"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Topper",
+    "forbidden_words": [
+      "First",
+      "Studious",
+      "Intelligent",
+      "Class",
+      "Person"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Exotic",
+    "forbidden_words": [
+      "Unusual",
+      "Strange",
+      "Animal",
+      "Island",
+      "Exciting"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Item-Song",
+    "forbidden_words": [
+      "Katrina Kaif",
+      "Dance",
+      "Actress",
+      "Chikni Chameli",
+      "Malaika"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Teacher",
+    "forbidden_words": [
+      "Maam",
+      "Women",
+      "Strict",
+      "Person",
+      "Profession"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Filmfare",
+    "forbidden_words": [
+      "Award",
+      "Movie",
+      "Function",
+      "Actors",
+      "Bollywood"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fair",
+    "forbidden_words": [
+      "Dark",
+      "White",
+      "Light",
+      "Blonde",
+      "Colour"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Disease",
+    "forbidden_words": [
+      "Condition",
+      "Unwell",
+      "Fever",
+      "Infection",
+      "Sick"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sequel",
+    "forbidden_words": [
+      "Continues",
+      "Version",
+      "Film",
+      "New",
+      "Next"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Meme",
+    "forbidden_words": [
+      "Funny",
+      "Image",
+      "Joke",
+      "Online",
+      "Photo"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Insomnia",
+    "forbidden_words": [
+      "Sleep",
+      "Toss",
+      "Restless",
+      "Bed ",
+      "Night"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Inchitape",
+    "forbidden_words": [
+      "Length",
+      "Measurement",
+      "Height",
+      "Tailor",
+      "Stich"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Socks",
+    "forbidden_words": [
+      "Shoes",
+      "Pair",
+      "Feet",
+      "Dobby",
+      "Cloth"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Landlord",
+    "forbidden_words": [
+      "Owner",
+      "Rent",
+      "House",
+      "Apartment",
+      "Flat"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Marriage",
+    "forbidden_words": [
+      "Arrange",
+      "Love",
+      "Divorce",
+      "Individuals",
+      "People"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Newspaper",
+    "forbidden_words": [
+      "Morning",
+      "Tea",
+      "Digital",
+      "Read",
+      "Educated"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bracelet",
+    "forbidden_words": [
+      "Wrist",
+      "Jewelery",
+      "Hands",
+      "Arm",
+      "Band"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Speed Dating",
+    "forbidden_words": [
+      "Fast ",
+      "Singles",
+      "Tables",
+      "Many ",
+      "Time"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Google",
+    "forbidden_words": [
+      "Search",
+      "Gmail",
+      "Company",
+      "Tech",
+      "Maps"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Accident",
+    "forbidden_words": [
+      "Road",
+      "Collision",
+      "Crash",
+      "Cars",
+      "Vehicles"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sneeze",
+    "forbidden_words": [
+      "Season",
+      "Allergy",
+      "Itch",
+      "Spring",
+      "Remember"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ritual",
+    "forbidden_words": [
+      "Daily",
+      "Repeat",
+      "Tradition",
+      "Ceremony",
+      "Habit"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Metro",
+    "forbidden_words": [
+      "Train",
+      "Delhi",
+      "Underground",
+      "Transport",
+      "Travel"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sensor",
+    "forbidden_words": [
+      "Device",
+      "Detect",
+      "Track",
+      "Sensitive",
+      "Senses"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Keyboard",
+    "forbidden_words": [
+      "Typing",
+      "Alphabets",
+      "Peripheral",
+      "External",
+      "Computer"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Download",
+    "forbidden_words": [
+      "Install",
+      "Computer",
+      "Desktop",
+      "Locally",
+      "Get"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Torrent",
+    "forbidden_words": [
+      "Download",
+      "Illegal",
+      "Pirated",
+      "Pirate Bay",
+      "Website"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Spaceship",
+    "forbidden_words": [
+      "Vehicle",
+      "Earth",
+      "Aliens",
+      "Travel",
+      "Machine"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bug",
+    "forbidden_words": [
+      "Error",
+      "Issue",
+      "Discrepancy",
+      "Function",
+      "System"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fission",
+    "forbidden_words": [
+      "Nuclear",
+      "Hydrogen",
+      "Energy",
+      "Generate",
+      "Huge"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Paytm",
+    "forbidden_words": [
+      "Vijay Shekhar",
+      "Wallet",
+      "Payment",
+      "First",
+      "Demonetisation"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Toaster",
+    "forbidden_words": [
+      "Bread",
+      "Electricity",
+      "Appliance",
+      "Breakfast",
+      "Thing"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Voice Assistant",
+    "forbidden_words": [
+      "Alexa",
+      "Cortana",
+      "Talk",
+      "Speech",
+      "Understands"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fan",
+    "forbidden_words": [
+      "Ceiling",
+      "Table",
+      "Rotates",
+      "Air",
+      "Summers"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Hair Dryer",
+    "forbidden_words": [
+      "Wet",
+      "Long",
+      "Bath ",
+      "Party",
+      "Pretty"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Speedgun",
+    "forbidden_words": [
+      "Vehicle",
+      "Car",
+      "Speed",
+      "Fast",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Podcast",
+    "forbidden_words": [
+      "Listen",
+      "Audio",
+      "Streaming",
+      "Episodes",
+      "Service "
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Helicopter",
+    "forbidden_words": [
+      "Air",
+      "Military",
+      "Rotor",
+      "Fan",
+      "Sky"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Engagement",
+    "forbidden_words": [
+      "Time",
+      "Addicted",
+      "Duration",
+      "App",
+      "Metric"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Geyser",
+    "forbidden_words": [
+      "Warm",
+      "Water",
+      "Hot",
+      "Bath",
+      "Heat"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tear-Gas",
+    "forbidden_words": [
+      "Water",
+      "Police",
+      "Mob",
+      "Riot",
+      "Protest"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Dam",
+    "forbidden_words": [
+      "Water",
+      "River",
+      "Hydorelectricity",
+      "Bhakra Nangal",
+      "Hirakud"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Welding",
+    "forbidden_words": [
+      "Metal",
+      "Heat",
+      "Join",
+      "Materials",
+      "Energy"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sundar Pichai",
+    "forbidden_words": [
+      "Google",
+      "Ceo",
+      "Head",
+      "Company",
+      "Indian"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Projector",
+    "forbidden_words": [
+      "Display",
+      "Screen",
+      "Show",
+      "Large",
+      "Different"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Acquisition",
+    "forbidden_words": [
+      "Buy",
+      "Merge",
+      "Own",
+      "Purchase",
+      "Company"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Power Plant",
+    "forbidden_words": [
+      "Nuclear",
+      "Thermal",
+      "Hydropower",
+      "Electricity",
+      "Facility"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Smartwatch",
+    "forbidden_words": [
+      "Intelligent",
+      "Anrdoid",
+      "Wearable",
+      "Time",
+      "Tracking"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Iot",
+    "forbidden_words": [
+      "Connected",
+      "Devices",
+      "Linked",
+      "System",
+      "Concept"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Digilocker",
+    "forbidden_words": [
+      "Documents",
+      "Online ",
+      "Store ",
+      "Government",
+      "Service"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bullet Train",
+    "forbidden_words": [
+      "Modi",
+      "Bjp",
+      "Ahemadabad",
+      "Japan",
+      "Superfast"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Geek",
+    "forbidden_words": [
+      "Nerd",
+      "Intelligent",
+      "Talented",
+      "Smart",
+      "Computers"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Engine",
+    "forbidden_words": [
+      "Car",
+      "Railway",
+      "Every",
+      "Vehicle",
+      "Work"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Snooping",
+    "forbidden_words": [
+      "Hack",
+      "Information",
+      "Monitor",
+      "Private",
+      "Data"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fingerprint",
+    "forbidden_words": [
+      "Crime",
+      "Authenticate",
+      "Identity",
+      "Crime",
+      "Ivestigation"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Rdx",
+    "forbidden_words": [
+      "Explosive",
+      "Movie",
+      "Bomb",
+      "War",
+      "Military"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Space",
+    "forbidden_words": [
+      "Sky",
+      "Up",
+      "Atmosphere",
+      "Over",
+      "Vast"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Evm",
+    "forbidden_words": [
+      "Elections",
+      "Rigged",
+      "Machines",
+      "Voting",
+      "Blame"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tesla",
+    "forbidden_words": [
+      "Elon Musk",
+      "Electric ",
+      "Car",
+      "Automobile",
+      "Company"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Airpod",
+    "forbidden_words": [
+      "Earphones",
+      "Wireless",
+      "Apple",
+      "Bluetooth",
+      "Music"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "High-Definition",
+    "forbidden_words": [
+      "Clear",
+      "Video",
+      "Image",
+      "Quality",
+      "Good"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bulb",
+    "forbidden_words": [
+      "Edison",
+      "Light",
+      "Yellow",
+      "Appliance",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Walmart",
+    "forbidden_words": [
+      "E-Commerce",
+      "Retail",
+      "Offline",
+      "Flipkart",
+      "Amazon"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lightyear",
+    "forbidden_words": [
+      "Time",
+      "Travel",
+      "Unit",
+      "Distance",
+      "Concept"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Printer",
+    "forbidden_words": [
+      "Device",
+      "Page",
+      "E-Mail",
+      "Physical",
+      "Hard"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Artificial Intelligence",
+    "forbidden_words": [
+      "Natural",
+      "Concept",
+      "Machines",
+      "Think",
+      "Human"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Rocket",
+    "forbidden_words": [
+      "Space",
+      "Vehicle",
+      "Nasa",
+      "Isro",
+      "Launch"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Browser",
+    "forbidden_words": [
+      "Chrome",
+      "Firefox",
+      "Safari",
+      "Opera",
+      "Internet"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Quora",
+    "forbidden_words": [
+      "Website",
+      "word",
+      "Answer",
+      "Platform",
+      "Knowledge"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Antenna",
+    "forbidden_words": [
+      "Receive",
+      "Radio",
+      "Signal",
+      "Current",
+      "Dish"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lg",
+    "forbidden_words": [
+      "Company",
+      "Brand",
+      "Fridge",
+      "Appliances",
+      "Ac"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tablet",
+    "forbidden_words": [
+      "Computer",
+      "Small",
+      "Browsing",
+      "Videos",
+      "Ipad"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Einstein",
+    "forbidden_words": [
+      "Relativity",
+      "Germany",
+      "Theory",
+      "Famous",
+      "Nobel"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Android",
+    "forbidden_words": [
+      "Operating System",
+      "Google",
+      "Smartphone",
+      "Device",
+      "Product"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Offline",
+    "forbidden_words": [
+      "Online",
+      "Physical",
+      "Retail",
+      "Turned-Off",
+      "Switch"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Facebook",
+    "forbidden_words": [
+      "Social",
+      "Friends",
+      "Website",
+      "Company ",
+      "Family"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Dell",
+    "forbidden_words": [
+      "Pc",
+      "Laptop",
+      "Computers",
+      "Inspiron",
+      "Devices"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gps",
+    "forbidden_words": [
+      "Location",
+      "Destination",
+      "Travel",
+      "System",
+      "Maps"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Softbank",
+    "forbidden_words": [
+      "Venture Capital",
+      "Investment",
+      "Huge",
+      "Unicorn",
+      "Valuation"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Satellite",
+    "forbidden_words": [
+      "Object",
+      "Orbit",
+      "Earth",
+      "Example",
+      "Space"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Synchronization",
+    "forbidden_words": [
+      "Concurrent ",
+      "Same",
+      "Co-Ordinated",
+      "Together",
+      "Multiple"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Hacking",
+    "forbidden_words": [
+      "Break Into",
+      "Breach",
+      "Exploit",
+      "Computer",
+      "System"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Java",
+    "forbidden_words": [
+      "_Language",
+      "Programming",
+      "Software",
+      "Computer",
+      "Object Oriented"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Self Driving Car",
+    "forbidden_words": [
+      "Human",
+      "Driver",
+      "Vehicle",
+      "Manual",
+      "Person"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cv Raman",
+    "forbidden_words": [
+      "Scientist",
+      "Physics",
+      "Indian",
+      "Light",
+      "Nobel"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Open-Source",
+    "forbidden_words": [
+      "Linux",
+      "Ubuntu",
+      "Contribute",
+      "Free",
+      "Code"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Whatsapp",
+    "forbidden_words": [
+      "Chat",
+      "Message",
+      "Friends",
+      "Family",
+      "App"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Petrol",
+    "forbidden_words": [
+      "Fuel",
+      "Car",
+      "Diesel",
+      "Vehicle",
+      "Crude"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Password",
+    "forbidden_words": [
+      "Authentiate",
+      "Login",
+      "Open",
+      "Access",
+      "Forget"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Nasa",
+    "forbidden_words": [
+      "Space",
+      "Organisation",
+      "Us",
+      "American",
+      "Research"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Premium",
+    "forbidden_words": [
+      "Amount",
+      "Payment",
+      "Higher",
+      "More",
+      "Greater"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Spam",
+    "forbidden_words": [
+      "Unwanted",
+      "Mail",
+      "Junk",
+      "Need",
+      "Unsolicited"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Radiation",
+    "forbidden_words": [
+      "Mobile ",
+      "Telecom",
+      "Harmful",
+      "Invisible",
+      "Install"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Air Purifier",
+    "forbidden_words": [
+      "Pollution",
+      "Filters",
+      "Cleans",
+      "Purifies",
+      "Surroundings"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Thermometer",
+    "forbidden_words": [
+      "Temperature",
+      "Fever",
+      "Mercury",
+      "Device",
+      "Sick"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Code",
+    "forbidden_words": [
+      "Programmer",
+      "Developer",
+      "Software",
+      "Create",
+      "Build"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Autonomous",
+    "forbidden_words": [
+      "Manual",
+      "Intervention",
+      "Automatic",
+      "Robot",
+      "Car"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Wifi",
+    "forbidden_words": [
+      "Internet",
+      "Office",
+      "Password",
+      "Home",
+      "Connect"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Magnet",
+    "forbidden_words": [
+      "Attract",
+      "Repel",
+      "Polarity",
+      "Iron",
+      "Object"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Wireless",
+    "forbidden_words": [
+      "Signals",
+      "Waves",
+      "Connected",
+      "Devices",
+      "Points"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Barcode",
+    "forbidden_words": [
+      "Technology",
+      "Printed",
+      "Lines",
+      "Vertical",
+      "Data"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Microwave Oven",
+    "forbidden_words": [
+      "Device",
+      "Food",
+      "Heating",
+      "Kitchen",
+      "Appliance"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Clone",
+    "forbidden_words": [
+      "Similar",
+      "Genetic",
+      "Same",
+      "Identical",
+      "Exact"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cockpit",
+    "forbidden_words": [
+      "Aeroplane",
+      "Pilot",
+      "Sit",
+      "Area",
+      "Part"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Firefox",
+    "forbidden_words": [
+      "Broswer",
+      "Chrome",
+      "Safari",
+      "Opera",
+      "Web"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Blogging",
+    "forbidden_words": [
+      "Write",
+      "Online",
+      "Creative",
+      "Hobby",
+      "Wordpress"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Madam Curie",
+    "forbidden_words": [
+      "Discover",
+      "Scientist",
+      "Female",
+      "Women",
+      "Research"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Missile",
+    "forbidden_words": [
+      "Agni",
+      "Prithvi",
+      "Weapon",
+      "Technology",
+      "War"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Refresh",
+    "forbidden_words": [
+      "Again",
+      "F5",
+      "Reload",
+      "Page",
+      "Change"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Climate Change",
+    "forbidden_words": [
+      "Temperature",
+      "Rise",
+      "Increase",
+      "Ice-Caps",
+      "Earth"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Semiconductor",
+    "forbidden_words": [
+      "Silicon",
+      "Device",
+      "Electricity",
+      "Material",
+      "Conduct"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Newton",
+    "forbidden_words": [
+      "Gravity",
+      "Physics",
+      "Motion",
+      "Inertia",
+      "Scientist"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bose",
+    "forbidden_words": [
+      "Headphones",
+      "Earphones",
+      "Company",
+      "Best",
+      "Sound"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Generator",
+    "forbidden_words": [
+      "Electricity",
+      "Motor",
+      "Diesel",
+      "Noise",
+      "Light"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Time Machine",
+    "forbidden_words": [
+      "Travel",
+      "Fiction",
+      "Future",
+      "Past",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Nanotechnology",
+    "forbidden_words": [
+      "Industry",
+      "Small",
+      "Micro",
+      "Sector",
+      "Size"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Stove",
+    "forbidden_words": [
+      "Kitchen",
+      "Appliance",
+      "Cook",
+      "Heat",
+      "Warm"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Computer",
+    "forbidden_words": [
+      "Laptop",
+      "Home",
+      "Electronic",
+      "Windows",
+      "Desktop"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Hardware",
+    "forbidden_words": [
+      "Software",
+      "Physical",
+      "Tangible",
+      "Real",
+      "Component"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cd",
+    "forbidden_words": [
+      "Compact Disc",
+      "Movies",
+      "Games",
+      "Childhood",
+      "Kids"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Unzip",
+    "forbidden_words": [
+      "Large",
+      "Compress",
+      "Single",
+      "Reduce",
+      "Size"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Stephen Hawking",
+    "forbidden_words": [
+      "Scientist",
+      "Physics",
+      "Time",
+      "Famous",
+      "Nobel"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Steam Press",
+    "forbidden_words": [
+      "Method",
+      "Iron",
+      "Clothes",
+      "Electric ",
+      "Way"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "App",
+    "forbidden_words": [
+      "Mobile",
+      "Example",
+      "Types",
+      "Smartphone",
+      "Android"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Techcrunch",
+    "forbidden_words": [
+      "Website",
+      "Technology",
+      "Online",
+      "Company",
+      "Industry"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tower",
+    "forbidden_words": [
+      "Mobile",
+      "Telecom",
+      "Radiation",
+      "Eiffel",
+      "Leaning"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Format",
+    "forbidden_words": [
+      "Type",
+      "Support",
+      "File",
+      "Differentiate",
+      "Play"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Earphone",
+    "forbidden_words": [
+      "Device",
+      "Music",
+      "Plug",
+      "Jbl",
+      "Senheiser"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Prosthetic",
+    "forbidden_words": [
+      "Artificial",
+      "Limb",
+      "Body-Part",
+      "Leg",
+      "Arm"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Motion",
+    "forbidden_words": [
+      "Travel",
+      "Movement",
+      "Direction",
+      "Newton",
+      "Change"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Anaesthesia",
+    "forbidden_words": [
+      "Operation",
+      "Numb",
+      "Unconscious",
+      "Pain",
+      "Chloroform"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cloud Computing ",
+    "forbidden_words": [
+      "Aws",
+      "Azure",
+      "Server",
+      "Physical",
+      "Online"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Air Conditioner (Ac)",
+    "forbidden_words": [
+      "Temperature",
+      "Houses",
+      "Cooling",
+      "Machine",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Chandrayaan",
+    "forbidden_words": [
+      "Isro",
+      "Moon",
+      "Vikram",
+      "Crash",
+      "Mission"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Machine Gun",
+    "forbidden_words": [
+      "Automatic",
+      "Kill",
+      "Bullets",
+      "Fire",
+      "Ak-47"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fintech",
+    "forbidden_words": [
+      "Sector",
+      "Digital",
+      "Banks",
+      "Payment",
+      "Wallet"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Thermos",
+    "forbidden_words": [
+      "Flask",
+      "Temperature",
+      "Hot",
+      "Maintain",
+      "Vaccum"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mastercard",
+    "forbidden_words": [
+      "Debit Card",
+      "Credit Card",
+      "Payments",
+      "Company",
+      "Visa"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Walkman",
+    "forbidden_words": [
+      "Sony",
+      "Music",
+      "Device",
+      "Portable",
+      "Famous"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Servicing",
+    "forbidden_words": [
+      "Repair",
+      "Maintainence",
+      "Centre",
+      "Car",
+      "Vehicle"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Laboratory",
+    "forbidden_words": [
+      "Experiment",
+      "Research",
+      "Scientist",
+      "Innovation",
+      "Test Tube"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Upi",
+    "forbidden_words": [
+      "Payment",
+      "Bhim",
+      "Google Pay",
+      "Smartphone",
+      "Transaction"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cybercrime",
+    "forbidden_words": [
+      "Hack",
+      "Fraud",
+      "Category",
+      "Password",
+      "Phishing"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cooker",
+    "forbidden_words": [
+      "Dal",
+      "Rice",
+      "Pressure",
+      "Hawkins",
+      "Appliance"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Transplant",
+    "forbidden_words": [
+      "Liver",
+      "Heart",
+      "Kideney",
+      "Extract",
+      "Cut"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Steve Jobs",
+    "forbidden_words": [
+      "Apple",
+      "Iphone",
+      "Ipad",
+      "Ipod",
+      "Mac"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Marissa Mayer",
+    "forbidden_words": [
+      "Google",
+      "Yahoo",
+      "Technology",
+      "Women",
+      "Leader"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Broadband",
+    "forbidden_words": [
+      "Internet",
+      "Home",
+      "Modem",
+      "Term",
+      "Wifi"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Install",
+    "forbidden_words": [
+      "Download",
+      ".Exe",
+      "Application",
+      "Run",
+      "Use"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Patent",
+    "forbidden_words": [
+      "Innovation",
+      "Discovery",
+      "Royalty",
+      "Money",
+      "Create"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bulldozer",
+    "forbidden_words": [
+      "Destruction",
+      "Demolition",
+      "Machine",
+      "Vehicle",
+      "Crane"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Email",
+    "forbidden_words": [
+      "Gmail",
+      "Outlook",
+      "Communication",
+      "Office",
+      "Digital"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Chromecast",
+    "forbidden_words": [
+      "Stream",
+      "Smart ",
+      "Google ",
+      "Digital",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lift",
+    "forbidden_words": [
+      "Elevator",
+      "Stairs",
+      "Building",
+      "Complex",
+      "Floor"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Spotify",
+    "forbidden_words": [
+      "Music",
+      "Streaming",
+      "App",
+      "Listen",
+      "Popular"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Submarine",
+    "forbidden_words": [
+      "Underwater",
+      "Machine",
+      "Vehicle",
+      "Subsurface",
+      "Innovation"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Yahoo",
+    "forbidden_words": [
+      "Email",
+      "Search",
+      "Google",
+      "Msn",
+      "Messenger"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bill Gates",
+    "forbidden_words": [
+      "Microsoft",
+      "Richest",
+      "Ceo",
+      "Windows",
+      "Founder"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gravity",
+    "forbidden_words": [
+      "Space",
+      "Earth",
+      "Apple",
+      "Newton",
+      "Phenomenon"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Chatbot",
+    "forbidden_words": [
+      "Customer Service",
+      "Technology",
+      "Software",
+      "Conversation",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Invisible",
+    "forbidden_words": [
+      "Vision",
+      "Seep",
+      "Eyes",
+      "Hidden",
+      "Inaccessible"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Current",
+    "forbidden_words": [
+      "Wires",
+      "Metal",
+      "Appliance",
+      "Shock",
+      "Electricity"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Netflix",
+    "forbidden_words": [
+      "Video Steaming",
+      "Similar",
+      "Famous",
+      "Popular",
+      "Service"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Robot",
+    "forbidden_words": [
+      "Automation",
+      "Japan",
+      "Small Wonder",
+      "Asimov",
+      "Machine"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Edtech",
+    "forbidden_words": [
+      "Field",
+      "Sector",
+      "Domain",
+      "Technology",
+      "Companies"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Micromax",
+    "forbidden_words": [
+      "Low-Cost",
+      "Mobile",
+      "Smartphones",
+      "Intex",
+      "Karbonn"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jack Ma",
+    "forbidden_words": [
+      "Alibaba",
+      "Entrepreneur",
+      "Paytm",
+      "Chinese",
+      "E-Commerce"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Xiaomi",
+    "forbidden_words": [
+      "Company",
+      "Smartphone",
+      "Brand",
+      "Chinese",
+      "Indian"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Swiss Knife",
+    "forbidden_words": [
+      "Multi-Purpose",
+      "Different",
+      "Special",
+      "Unique",
+      "Use"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Uber",
+    "forbidden_words": [
+      "Taxi",
+      "Pool",
+      "Moto",
+      "Cab",
+      "Ride"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Breath Analyzer",
+    "forbidden_words": [
+      "Alcohol",
+      "Police",
+      "Driving",
+      "Car",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Server",
+    "forbidden_words": [
+      "Storage",
+      "Online",
+      "Website",
+      "Host",
+      "Machine"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Alloy",
+    "forbidden_words": [
+      "Mix",
+      "Metal",
+      "Brass",
+      "Bronze",
+      "Nickel"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gorilla Glass",
+    "forbidden_words": [
+      "Unbreakable",
+      "Screen",
+      "Smartphone",
+      "Strengthened",
+      "Resistant"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jacuzzi",
+    "forbidden_words": [
+      "Bathtub",
+      "Water",
+      "Bathroom",
+      "Company",
+      "Shower"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tractor",
+    "forbidden_words": [
+      "Farmers",
+      "Farms",
+      "Open",
+      "Crops",
+      "Agriculture"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bulletproof",
+    "forbidden_words": [
+      "Movies",
+      "Die",
+      "Kill",
+      "Protect",
+      "Save"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Personalisation",
+    "forbidden_words": [
+      "Targetted",
+      "Specific",
+      "Websites",
+      "Experience",
+      "Behaviour"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Biometric",
+    "forbidden_words": [
+      "Authentication",
+      "Aadhaar",
+      "Fingerprint",
+      "Eye",
+      "Scan"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Biogas",
+    "forbidden_words": [
+      "Gobargas",
+      "Cowdung",
+      "Fuel",
+      "Organic",
+      "Decomposition"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Data",
+    "forbidden_words": [
+      "Mobile",
+      "Internet",
+      "Plan",
+      "Information",
+      "Big"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Raspberry Pi",
+    "forbidden_words": [
+      "Computer",
+      "Small",
+      "Hands",
+      "Chip",
+      "Machine"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Telescope",
+    "forbidden_words": [
+      "Device",
+      "Astronomy",
+      "Space",
+      "Stars",
+      "Observe"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Virus",
+    "forbidden_words": [
+      "Computer",
+      "Malware",
+      "Spyware",
+      "Disease",
+      "Microbe"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Batmobile",
+    "forbidden_words": [
+      "Joker",
+      "Chiristopher Nolan",
+      "Car",
+      "Vehicle",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Detector",
+    "forbidden_words": [
+      "Device",
+      "Instrument",
+      "Identifies",
+      "Discovers",
+      "Presence"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Awareness",
+    "forbidden_words": [
+      "Know",
+      "Information",
+      "Idea",
+      "Conscious",
+      "Happening"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Waterproof",
+    "forbidden_words": [
+      "Resistant",
+      "Seep",
+      "Leak",
+      "Impervious",
+      "Prevent"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Qr Code",
+    "forbidden_words": [
+      "Matrix",
+      "Rectangle",
+      "App",
+      "Install",
+      "Dots"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Virtual Reality",
+    "forbidden_words": [
+      "Technology",
+      "Person",
+      "Real",
+      "Device",
+      "Simulate"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Invent",
+    "forbidden_words": [
+      "Find",
+      "Make",
+      "Build",
+      "Produce",
+      "Create"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mining",
+    "forbidden_words": [
+      "Metal",
+      "Extraction",
+      "Earth",
+      "Surface",
+      "Underground"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lenovo",
+    "forbidden_words": [
+      "Battery",
+      "Laptop",
+      "Computers",
+      "Thinkpad",
+      "Devices"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Touchscreen",
+    "forbidden_words": [
+      "Feature",
+      "Smartphones",
+      "Computers",
+      "Hand",
+      "Fingers"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Airbnb",
+    "forbidden_words": [
+      "Company",
+      "Start-Up",
+      "Homestays",
+      "Lodging",
+      "Marketplace"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Payment",
+    "forbidden_words": [
+      "Online",
+      "E-Wallet",
+      "Digital",
+      "Purchase",
+      "Shop"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "X-Ray",
+    "forbidden_words": [
+      "Fracture",
+      "Technology",
+      "Scan",
+      "Bones",
+      "Inside"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tap",
+    "forbidden_words": [
+      "Water",
+      "Bathroom",
+      "Kitchen",
+      "Toilet",
+      "Use"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Secure",
+    "forbidden_words": [
+      "Safe",
+      "Protected",
+      "Password",
+      "Hack",
+      "Firm"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Dynamic Pricing",
+    "forbidden_words": [
+      "Demand",
+      "Surge",
+      "Technique",
+      "Fare",
+      "Higher"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Headphones",
+    "forbidden_words": [
+      "Listen",
+      "Music",
+      "Ear",
+      "Plug",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Kindle",
+    "forbidden_words": [
+      "Reading",
+      "Book",
+      "Device",
+      "Amazon",
+      " Tablet"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Captcha",
+    "forbidden_words": [
+      "Login",
+      "Password",
+      "Authenticate",
+      "Technique",
+      "System"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Drone",
+    "forbidden_words": [
+      "Device",
+      "Air",
+      "Ground",
+      "Camera",
+      "Video"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Camera",
+    "forbidden_words": [
+      "Photo",
+      "Picture",
+      "Click",
+      "Selfie",
+      "Phone"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Aws (Amazon Web Services)",
+    "forbidden_words": [
+      "Cloud",
+      "Server",
+      "Amazon",
+      "Storage",
+      "Services"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Pen Drive",
+    "forbidden_words": [
+      "Storage",
+      "Additional",
+      "1Gb/2Gb/4Gb/8Gb",
+      "Sandisk",
+      "Capacity"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Flush",
+    "forbidden_words": [
+      "Toilet",
+      "Morning",
+      "Dump",
+      "Eat",
+      "Water"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Charger",
+    "forbidden_words": [
+      "Device",
+      "Mobile",
+      "Smartphone",
+      "Laptop",
+      "Energy"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Scan",
+    "forbidden_words": [
+      "Device",
+      "Convert",
+      "Image",
+      "Reads",
+      "Document"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cisco",
+    "forbidden_words": [
+      "Company",
+      "Networks",
+      "Routers",
+      "Software",
+      "Organisation"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Vaccine",
+    "forbidden_words": [
+      "Disease",
+      "Germs",
+      "Children",
+      "Microbes",
+      "Polio"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fake-News",
+    "forbidden_words": [
+      "Cambridge Analytica",
+      "Facebook",
+      "Social Media",
+      "Rumour",
+      "Incorrect"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bitcoin",
+    "forbidden_words": [
+      "Cryptocurrency",
+      "Blockchain",
+      "Money",
+      "Finance",
+      "Digital"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Elon Musk",
+    "forbidden_words": [
+      "Tesla",
+      "Ironman",
+      "Electric",
+      "Hyperloop",
+      "Paypal"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Encryption",
+    "forbidden_words": [
+      "Password",
+      "Data",
+      "Whatsapp",
+      "Technology",
+      "Protect"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Intel",
+    "forbidden_words": [
+      "Company",
+      "Chips",
+      "Computer",
+      "Microprocessor",
+      "Mnc"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Aeroplane",
+    "forbidden_words": [
+      "Flight",
+      "Sky",
+      "Pilot",
+      "Air-Hostess",
+      "Airport"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Broadcast",
+    "forbidden_words": [
+      "Announce",
+      "Message",
+      "Inform",
+      "Eveyone",
+      "Send"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fastag",
+    "forbidden_words": [
+      "Toll",
+      "Rfid",
+      "Device",
+      "Payment",
+      "Technology"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Nokia",
+    "forbidden_words": [
+      "Company",
+      "Phone",
+      "Finland",
+      "Mobile",
+      "1100"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Electrolysis",
+    "forbidden_words": [
+      "Electricity",
+      "Breakdown",
+      "Transform",
+      "Convert",
+      "Current"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Website",
+    "forbidden_words": [
+      "Browser",
+      "Facebook",
+      "Google",
+      "Type",
+      "Category"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fitbit",
+    "forbidden_words": [
+      "Health",
+      "Running",
+      "Device",
+      "Wearable",
+      "Company"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jio",
+    "forbidden_words": [
+      "Reliance",
+      "Telecom",
+      "Network",
+      "Dataplan",
+      "Free"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "4G",
+    "forbidden_words": [
+      "Jio",
+      "Spectrum",
+      "1G/2G/3G",
+      "Communication",
+      "Phone"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Refrigrator",
+    "forbidden_words": [
+      "Appliance",
+      "Cold",
+      "Ice",
+      "Home",
+      "House"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Satya Nadella",
+    "forbidden_words": [
+      "Microsoft",
+      "Ceo",
+      "Windows",
+      "Company",
+      "Organisation"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Contact Lens",
+    "forbidden_words": [
+      "Eyes",
+      "Spectacles",
+      "Vision",
+      "See",
+      "Glasses"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cache",
+    "forbidden_words": [
+      "Store",
+      "Quick",
+      "Fast",
+      "Efficient",
+      "Future"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Privacy(Data Privacy)",
+    "forbidden_words": [
+      "Security",
+      "Consent",
+      "Information",
+      "Share",
+      "Own"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Communication",
+    "forbidden_words": [
+      "Talk",
+      "Telecom",
+      "Electronics",
+      "Speak",
+      "Signal"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Automation",
+    "forbidden_words": [
+      "Manual",
+      "Mechanisation",
+      "Replace",
+      "Humans",
+      "Control"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Philips",
+    "forbidden_words": [
+      "Tubelight",
+      "Electronics",
+      "Bulb",
+      "Trimmer",
+      "Appliance"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Catalyst",
+    "forbidden_words": [
+      "Reaction",
+      "Enzyme",
+      "Fast",
+      "Speedens",
+      "Hastens"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Usb",
+    "forbidden_words": [
+      "Standard",
+      "Interface",
+      "Connecting",
+      "Peripheral",
+      "Computer"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Heater",
+    "forbidden_words": [
+      "Temperature",
+      "Winters",
+      "Warm",
+      "Hot",
+      "Room"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ultrasound",
+    "forbidden_words": [
+      "Birth",
+      "Gender",
+      "Technique",
+      "Imaging",
+      "Diagnostic"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Galvanization",
+    "forbidden_words": [
+      "Zinc",
+      "Rust",
+      "Iron",
+      "Coating",
+      "Process"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tubelight",
+    "forbidden_words": [
+      "Home",
+      "Electricity",
+      "Bulb",
+      "House",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sim Card",
+    "forbidden_words": [
+      "Mobile ",
+      "Smartphone",
+      "Thing",
+      "Dual",
+      "Insert"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Drilling",
+    "forbidden_words": [
+      "Screw",
+      "Hole",
+      "Machine",
+      "House",
+      "Hang"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Start-Up",
+    "forbidden_words": [
+      "Small",
+      "New",
+      "Entrepreneur",
+      "Many",
+      "Few"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Loudspeaker",
+    "forbidden_words": [
+      "Airport",
+      "Religious",
+      "Sound",
+      "Function",
+      "Marriage"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Autopilot",
+    "forbidden_words": [
+      "Manual",
+      "Hands-Off",
+      "Machine",
+      "Intervention",
+      "Aeroplane"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Pacemaker",
+    "forbidden_words": [
+      "Heart",
+      "Device ",
+      "Slow",
+      "Irregular",
+      "Heartbeat"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bluetooth",
+    "forbidden_words": [
+      "Standard",
+      "Transfer",
+      "Send",
+      "Wireless",
+      "Connect"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Laser",
+    "forbidden_words": [
+      "Technology",
+      "Pinpoint",
+      "Exact",
+      "Device",
+      "Light"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Youtube",
+    "forbidden_words": [
+      "App",
+      "Music",
+      "Google",
+      "Videos",
+      "Watch"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Supercomputer",
+    "forbidden_words": [
+      "Capability",
+      "Extraordinary",
+      "Performance",
+      "Fast",
+      "Speed"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Boomerang",
+    "forbidden_words": [
+      "Instagram",
+      "Photo",
+      "Back",
+      "Mini-Videos",
+      "Loop"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Oracle",
+    "forbidden_words": [
+      "Database",
+      "Server",
+      "Larry Ellison",
+      "Backend",
+      "Technology"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Programmer",
+    "forbidden_words": [
+      "Code",
+      "Computer",
+      "Person",
+      "Software",
+      "Creates"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Motorcycle",
+    "forbidden_words": [
+      "Types",
+      "Brands",
+      "Two-Wheeler",
+      "Bike",
+      "Vehicle"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bomb",
+    "forbidden_words": [
+      "Explosive",
+      "War",
+      "Destruction",
+      "Battlefield",
+      "Terrorists"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Radio",
+    "forbidden_words": [
+      "Fm",
+      "Rj",
+      "Car",
+      "Hear",
+      "Listen"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Rotate",
+    "forbidden_words": [
+      "Move",
+      "Circular",
+      "Round",
+      "Motion",
+      "Wheel"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Speaker",
+    "forbidden_words": [
+      "Music",
+      "Audio",
+      "Apmplify",
+      "Loud",
+      "Listen"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Anonymous",
+    "forbidden_words": [
+      "Unknown",
+      "Reveal",
+      "Login",
+      "Name",
+      "Identity"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Iphone",
+    "forbidden_words": [
+      "Steve Jobs",
+      "Apple",
+      "Expensive",
+      "Smartphone",
+      "Android"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Battery",
+    "forbidden_words": [
+      "Mobile",
+      "Smartphone",
+      "Charge",
+      "Devices",
+      "Power"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Speedometer",
+    "forbidden_words": [
+      "Car",
+      "Vehicle",
+      "Fast",
+      "Slow",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tiktok",
+    "forbidden_words": [
+      "Videos",
+      "Bytedance",
+      "Millenials",
+      "App",
+      "Short"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Launch",
+    "forbidden_words": [
+      "Release",
+      "Start",
+      "Open",
+      "Application",
+      "Platform"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Steel",
+    "forbidden_words": [
+      "Stainless",
+      "Utensils",
+      "Iron",
+      "Construction",
+      "Strength"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Experiment",
+    "forbidden_words": [
+      "Trial",
+      "Pilot",
+      "Test",
+      "Demonstrate",
+      "Laboratory"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Signal",
+    "forbidden_words": [
+      "Mobile",
+      "Connectivity",
+      "Reception",
+      "Receive",
+      "Network"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Snapdragon",
+    "forbidden_words": [
+      "Processor",
+      "Qualcom",
+      "Smartphones",
+      "Technology",
+      "Mobile"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Unicorn",
+    "forbidden_words": [
+      "Start-Up",
+      "Billion",
+      "Valuation",
+      "Uber",
+      "Creature"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cookie",
+    "forbidden_words": [
+      "Biscuit",
+      "Website",
+      "Internet",
+      "Information",
+      "Save"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Silicon Valley",
+    "forbidden_words": [
+      "Innovation",
+      "Companies",
+      "Us",
+      "Technology",
+      "Place"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Storage",
+    "forbidden_words": [
+      "Space",
+      "Hard Disk",
+      "Capacity",
+      "Safe",
+      "Capture"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "3D Glass",
+    "forbidden_words": [
+      "Movies",
+      "Theatre",
+      "Illusion",
+      "Technology",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Talisman",
+    "forbidden_words": [
+      "Lucky",
+      "Charm",
+      "Astrologet",
+      "Stone",
+      "Luck"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Paris",
+    "forbidden_words": [
+      "Fashion",
+      "Week",
+      "City",
+      "France",
+      "Eiffel"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Boots",
+    "forbidden_words": [
+      "Military",
+      "Shoe",
+      "Ankle",
+      "Black",
+      "Army"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fusion",
+    "forbidden_words": [
+      "Mixture",
+      "Combination",
+      "Western",
+      "Nuclear",
+      "Indo"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lungi",
+    "forbidden_words": [
+      "Sarong",
+      "Skirt",
+      "Dhoti",
+      "Garment",
+      "Body"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Wraparound",
+    "forbidden_words": [
+      "Fold",
+      "Closed",
+      "Wrapping",
+      "Side",
+      "Across"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Dupatta",
+    "forbidden_words": [
+      "Scarf",
+      "Chudidar",
+      "Chunri/Odhni",
+      "Salwar",
+      "Cover"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jhola",
+    "forbidden_words": [
+      "Bag",
+      "Cloth",
+      "Journalist",
+      "Women",
+      "Shoulder"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Locket",
+    "forbidden_words": [
+      "Pendant",
+      "Necklace",
+      "Chain",
+      "Love",
+      "Gold"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lip Gloss",
+    "forbidden_words": [
+      "Shine",
+      "Lustre",
+      "Glittery",
+      "Face",
+      "Product"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Wallet",
+    "forbidden_words": [
+      "Purse",
+      "Money",
+      "Id Card",
+      "Leather",
+      "Black"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Photoshot",
+    "forbidden_words": [
+      "Model",
+      "Camera",
+      "Pose",
+      "Photographer",
+      "Pictures"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sneakers",
+    "forbidden_words": [
+      "Shoes",
+      "Sports",
+      "Casual",
+      "Running",
+      "Rubber"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bindi",
+    "forbidden_words": [
+      "Forehead",
+      "Dot",
+      "Married",
+      "Red",
+      "Face"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tailor",
+    "forbidden_words": [
+      "Stitch",
+      "Master Ji",
+      "Clothes",
+      "Person",
+      "Professional"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Brooch",
+    "forbidden_words": [
+      "Pin ",
+      "Jewellery",
+      "Decorative",
+      "Attached",
+      "Fabric"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cosmetics",
+    "forbidden_words": [
+      "Artificial",
+      "Substances",
+      "Products",
+      "Appearance",
+      "Texture"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Capris",
+    "forbidden_words": [
+      "Knees",
+      "Shorts",
+      "Pants",
+      "Trousers",
+      "Ankles"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Symmetry",
+    "forbidden_words": [
+      "Identical",
+      "Mirror",
+      "Same",
+      "Balanced",
+      "Shapes"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bell-Bottom",
+    "forbidden_words": [
+      "Trousers",
+      "Retro",
+      "Wider",
+      "Style",
+      "Older"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Influencer",
+    "forbidden_words": [
+      "Social",
+      "Following",
+      "Fans",
+      "Popular",
+      "Famous"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Motif",
+    "forbidden_words": [
+      "Decoration",
+      "Design",
+      "Recurring",
+      "Repeating",
+      "Image"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mannequin",
+    "forbidden_words": [
+      "Clothes",
+      "Hanging",
+      "Shops",
+      "Model",
+      "Doll"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Handmade",
+    "forbidden_words": [
+      "Stitched",
+      "Manual",
+      "Created",
+      "Machine",
+      "Automatic"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Retail",
+    "forbidden_words": [
+      "Shop",
+      "Purchase",
+      "Store",
+      "Sell",
+      "Buy "
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Salwar",
+    "forbidden_words": [
+      "Kameez",
+      "Suit",
+      "Traditional",
+      "Indian",
+      "Clothing"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Belt",
+    "forbidden_words": [
+      "Leather",
+      "Tied",
+      "Waist",
+      "Jeans",
+      "Pants"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Benarasi",
+    "forbidden_words": [
+      "Saree",
+      "Holy",
+      "Varanasi",
+      "City",
+      "Silk"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ethnic",
+    "forbidden_words": [
+      "Traditional",
+      "Clothes",
+      "Dresses",
+      "Culture",
+      "Category"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cosplay",
+    "forbidden_words": [
+      "Dress",
+      "Comicon",
+      "Character",
+      "Wear",
+      "Costumes"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ensemble",
+    "forbidden_words": [
+      "Group",
+      "Together",
+      "Performance",
+      "Cast",
+      "Equal"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Display",
+    "forbidden_words": [
+      "Show",
+      "Demonstrate",
+      "See",
+      "Visible",
+      "Public"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Scarf",
+    "forbidden_words": [
+      "Cover",
+      "Cloth",
+      "Neck ",
+      "Warmth",
+      "Fabric"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Watch",
+    "forbidden_words": [
+      "Time",
+      "Wear",
+      "Hand",
+      "Accessory",
+      "Wrist"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Victoria'S",
+    "forbidden_words": [
+      "Secret",
+      "Lingerie",
+      "Underwear",
+      "Innerwear",
+      "Supermodel"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Budget",
+    "forbidden_words": [
+      "Money",
+      "Limit",
+      "Plan",
+      "Amount",
+      "Fixed"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Wardrobe",
+    "forbidden_words": [
+      "Closet ",
+      "Storage",
+      "Clothes",
+      "Almirah",
+      "Cupboard"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Masculine",
+    "forbidden_words": [
+      "Male",
+      "Strong",
+      "Heavy",
+      "Feminine",
+      "Tough"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sunglasses",
+    "forbidden_words": [
+      "Goggles",
+      "Shades",
+      "Glares",
+      "Eyes",
+      "Black"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Maang Tikka",
+    "forbidden_words": [
+      "Jewelry",
+      "Forehead",
+      "Hair",
+      "Accessory",
+      "Middle"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Barrette",
+    "forbidden_words": [
+      "Hair ",
+      "Ornament",
+      "Clip ",
+      "Clasp",
+      "Head"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bracelet",
+    "forbidden_words": [
+      "Wrist",
+      "Arm",
+      "Jewellery",
+      "Ornament",
+      "Gift"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Milan",
+    "forbidden_words": [
+      "Fashion",
+      "Capital",
+      "Quality",
+      "Destination",
+      "Textiles"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Veil",
+    "forbidden_words": [
+      "Burqa",
+      "Black",
+      "Cover",
+      "Face",
+      "Head"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sketch",
+    "forbidden_words": [
+      "Paint",
+      "Sample",
+      "Look",
+      "Design",
+      "Drawing"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Unisex",
+    "forbidden_words": [
+      "Both",
+      "Wear",
+      "Female",
+      "Male",
+      "Gender"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Grooming",
+    "forbidden_words": [
+      "Cleaning",
+      "Shaving",
+      "Brushing",
+      "Maintaining",
+      "Hygiene"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Thong",
+    "forbidden_words": [
+      "G-String",
+      "Underwear",
+      "Panty",
+      "Small",
+      "Garment"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Off-Shoulder",
+    "forbidden_words": [
+      "Blouse",
+      "Top",
+      "Clothing",
+      "Cover",
+      "Visible"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Watch",
+    "forbidden_words": [
+      "Time",
+      "Wrist",
+      "Clock",
+      "Apple ",
+      "Smart"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Minimalism",
+    "forbidden_words": [
+      "Simple",
+      "Less",
+      "Modest",
+      "Declutter",
+      "Few"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Agent",
+    "forbidden_words": [
+      "Individual",
+      "Manager",
+      "Person",
+      "Work",
+      "Affairs"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sparkling",
+    "forbidden_words": [
+      "Shining",
+      "Glittering",
+      "Diamond",
+      "Pearl",
+      "Gold"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jersey",
+    "forbidden_words": [
+      "Cricket",
+      "Sports",
+      "Football",
+      "Shirt",
+      "Atheletes"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Antique",
+    "forbidden_words": [
+      "Past",
+      "Old",
+      "Vintage",
+      "Historical",
+      "Dated"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Distinct",
+    "forbidden_words": [
+      "Different",
+      "Unique",
+      "Special",
+      "Same",
+      "Similar"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Trial Room",
+    "forbidden_words": [
+      "Purchase",
+      "Shop",
+      "Clothes",
+      "Before",
+      "Buying"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Camisole",
+    "forbidden_words": [
+      "Loose",
+      "Sleeveless",
+      "Undergarment",
+      "Women",
+      "Ladies"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Casual",
+    "forbidden_words": [
+      "Relaxed",
+      "Informal",
+      "Everyday",
+      "Daily",
+      "Ordinary"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Maxi",
+    "forbidden_words": [
+      "Loose",
+      "Full-Length",
+      "Women",
+      "Ladies",
+      "Dress"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Abstract",
+    "forbidden_words": [
+      "Tangible",
+      "Concrete",
+      "Real",
+      "Summary",
+      "Symbol"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Makeover",
+    "forbidden_words": [
+      "Transformation",
+      "Change",
+      "Appearance",
+      "Looks",
+      "Alter"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Drape",
+    "forbidden_words": [
+      "Cover",
+      "Saree",
+      "Arrange ",
+      "Around",
+      "Casual"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "L'Oreal",
+    "forbidden_words": [
+      "French",
+      "Beauty",
+      "Care",
+      "Cosmetics",
+      "Skin"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Exchange",
+    "forbidden_words": [
+      "Retun",
+      "Different",
+      "Currency",
+      "Shop",
+      "Back"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bikini",
+    "forbidden_words": [
+      "Beach",
+      "Swimwear",
+      "Two-Piece",
+      "Holiday",
+      "Women"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Moustache",
+    "forbidden_words": [
+      "Nose",
+      "Face",
+      "Beard",
+      "Hair",
+      "Lips"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Choli",
+    "forbidden_words": [
+      "Lehenga",
+      "Blouse",
+      "Skirt",
+      "Traditional",
+      "Marriage"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jacket",
+    "forbidden_words": [
+      "Garment",
+      "Warm",
+      "Hood",
+      "Leather",
+      "Winter"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Garland",
+    "forbidden_words": [
+      "Flowers",
+      "String",
+      "Arrangement",
+      "Decorative",
+      "Leaves"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Market",
+    "forbidden_words": [
+      "Place",
+      "Buy",
+      "Purchase",
+      "Stuff",
+      "Dresses"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Chapstick",
+    "forbidden_words": [
+      "Lip",
+      "Dry",
+      "Cosmetic",
+      "Balm",
+      "Brand"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Street",
+    "forbidden_words": [
+      "Road",
+      "Fashion",
+      "Thoroughfare",
+      "Colaba",
+      "Clothes"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Shades",
+    "forbidden_words": [
+      "Colours",
+      "Sunglasses",
+      "Goggles",
+      "Aviators",
+      "Grey"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Robe",
+    "forbidden_words": [
+      "Bathing",
+      "Gown",
+      "Garment",
+      "Housecoat",
+      "Home"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Feminine",
+    "forbidden_words": [
+      "Ladylike",
+      "Curvy",
+      "Delicate",
+      "Women",
+      "Qualities"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lbd",
+    "forbidden_words": [
+      "Little",
+      "Black ",
+      "Dress",
+      "Party",
+      "Cocktail"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bracelet",
+    "forbidden_words": [
+      "Wrist",
+      "Jewelry",
+      "Band",
+      "Thoran",
+      "Friends"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tuxedo",
+    "forbidden_words": [
+      "Suit",
+      "Two-Piece",
+      "Coat",
+      "Jacket",
+      "Men"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Aesthetics",
+    "forbidden_words": [
+      "Nature",
+      "Nice",
+      "Sense",
+      "Beauty",
+      "Taste"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gift",
+    "forbidden_words": [
+      "Special",
+      "Free",
+      "Anniversary",
+      "Present",
+      "Birthday"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Shawl",
+    "forbidden_words": [
+      "Loose",
+      "Winters",
+      "Body",
+      "Cover",
+      "Women"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Diamond",
+    "forbidden_words": [
+      "Jewellery",
+      "Sparkling",
+      "Women",
+      "Expensive",
+      "Carbon"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sabyasachi",
+    "forbidden_words": [
+      "Designer",
+      "Weddings",
+      "Dresses",
+      "Nift",
+      "Famous"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Wig",
+    "forbidden_words": [
+      "Artificial",
+      "Hair",
+      "Bald",
+      "Cover",
+      "Head"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fancy",
+    "forbidden_words": [
+      "Special",
+      "Unique",
+      "Amazing",
+      "Decorated",
+      "Different"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Heels",
+    "forbidden_words": [
+      "Stilletos",
+      "High",
+      "Pencil",
+      "Shoes",
+      "Tall"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sweater",
+    "forbidden_words": [
+      "Wool",
+      "Winter",
+      "Warm",
+      "Wear",
+      "Garment"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Pedicure",
+    "forbidden_words": [
+      "Treatment",
+      "Cosmetic",
+      "Feet",
+      "Toenails",
+      "Manicure"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Hairband",
+    "forbidden_words": [
+      "Hair",
+      "Accessory",
+      "Curve",
+      "School",
+      "Headband"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Supermodel",
+    "forbidden_words": [
+      "Fashion",
+      "Rampwalk",
+      "Brands",
+      "Term",
+      "Rich"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Extensions",
+    "forbidden_words": [
+      "Length",
+      "Colour",
+      "Hair",
+      "Nails",
+      "Long"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Burqa",
+    "forbidden_words": [
+      "Muslim",
+      "Women",
+      "Black",
+      "Cover",
+      "Abaya"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ombre",
+    "forbidden_words": [
+      "Shaded",
+      "Colour",
+      "Hair",
+      "Blend",
+      "Gradient"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Halter Top",
+    "forbidden_words": [
+      "Dress",
+      "Tied",
+      "Sleveless",
+      "Neck",
+      "Straps"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Collection",
+    "forbidden_words": [
+      "Clothes",
+      "Fashion",
+      "Set ",
+      "Group",
+      "Similar"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Glamorous",
+    "forbidden_words": [
+      "Fashionable",
+      "Modern",
+      "Beauty",
+      "Attractive",
+      "Appealing"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Vintage",
+    "forbidden_words": [
+      "Retro",
+      "Olden",
+      "Past",
+      "Quality",
+      "Wine"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jhumka",
+    "forbidden_words": [
+      "Ears",
+      "Bareily",
+      "Jewelry",
+      "Bride",
+      "Pendant"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Apron ",
+    "forbidden_words": [
+      "Cooking",
+      "Cloth",
+      "Kitchen",
+      "Front",
+      "Body"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tunic",
+    "forbidden_words": [
+      "Shirt",
+      "Sweater",
+      "Garment",
+      "Upper",
+      "Body"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Camera",
+    "forbidden_words": [
+      "Lens",
+      "Image",
+      "Click",
+      "Smartphone",
+      "Selfie"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Corduroy",
+    "forbidden_words": [
+      "Textile",
+      "Durable",
+      "Colour",
+      "Cord",
+      "Fabric"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Myntra",
+    "forbidden_words": [
+      "E-Commerce",
+      "Website",
+      "Online",
+      "Shopping",
+      "Website"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Versace",
+    "forbidden_words": [
+      "Italian",
+      "Luxury",
+      "Fashion",
+      "Clothing",
+      "Brand"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Juthi",
+    "forbidden_words": [
+      "Shoes",
+      "Indian",
+      "Wedding",
+      "Groom",
+      "Traditional"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fad",
+    "forbidden_words": [
+      "Trend",
+      "Temporary",
+      "Craze",
+      "Permanent",
+      "Short-Lived"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Contour",
+    "forbidden_words": [
+      "Makeup",
+      "Brush",
+      "Cheeks",
+      "Highlight",
+      "Outline"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Celebrity",
+    "forbidden_words": [
+      "Popular",
+      "Famous",
+      "Actor",
+      "Actress",
+      "Star"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Stylist",
+    "forbidden_words": [
+      "Celebrities",
+      "Fashion",
+      "Wear",
+      "Dresses",
+      "Person"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Dressmaker",
+    "forbidden_words": [
+      "Tailor",
+      "Designer",
+      "Custom",
+      "Clothing",
+      "Profession "
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Statement",
+    "forbidden_words": [
+      "Expression",
+      "Style",
+      "Symbolise",
+      "Clear",
+      "Authentic"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Classic",
+    "forbidden_words": [
+      "Quality",
+      "Masterpiece",
+      "Timeless",
+      "Outstanding",
+      "Unmatched"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Nail Polish",
+    "forbidden_words": [
+      "Nail",
+      "Colour",
+      "Enamel",
+      "Finger",
+      "Nykaa"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Khaki",
+    "forbidden_words": [
+      "Brown",
+      "Military",
+      "Police",
+      "Colour",
+      "Uniform"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cosmopolitan",
+    "forbidden_words": [
+      "Cultures",
+      "Diverse",
+      "Cities",
+      "Traveller",
+      "Variety"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bandana",
+    "forbidden_words": [
+      "Headband",
+      "Kerchief",
+      "Sweatband",
+      "Neck",
+      "Cool"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bun",
+    "forbidden_words": [
+      "Hairstyle",
+      "Circular",
+      "Round",
+      "Head",
+      "Back"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Functional",
+    "forbidden_words": [
+      "Useful",
+      "Purpose",
+      "Role",
+      "Practical",
+      "Specifically"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Look",
+    "forbidden_words": [
+      "See",
+      "Watch",
+      "Fashion",
+      "Style",
+      "View"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Manufacture",
+    "forbidden_words": [
+      "Create ",
+      "Build",
+      "Produce",
+      "Factory",
+      "Industry"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Boutique",
+    "forbidden_words": [
+      "Shop",
+      "Store",
+      "Jewellery",
+      "Clothes",
+      "Accessories"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Nightie",
+    "forbidden_words": [
+      "Nightwear",
+      "Loose",
+      "Sleeping",
+      "Women",
+      "Bed"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Customer",
+    "forbidden_words": [
+      "Shop",
+      "Business",
+      "Buy",
+      "Store",
+      "Person"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Neckline",
+    "forbidden_words": [
+      "Cut",
+      "Top",
+      "Edge",
+      "Garment",
+      "Front"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bindi",
+    "forbidden_words": [
+      "Forehead",
+      "Women",
+      "Dot",
+      "Kumkum",
+      "Eyes"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Chiffon",
+    "forbidden_words": [
+      "Fabric",
+      "Cloth",
+      "Gowns",
+      "Woven",
+      "Decorative"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Chic",
+    "forbidden_words": [
+      "Stylish",
+      "Cool",
+      "Elegant",
+      "Smart",
+      "Fashion"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Formal",
+    "forbidden_words": [
+      "Serious",
+      "Official",
+      "Proper",
+      "Wear",
+      "Tie"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Shopping",
+    "forbidden_words": [
+      "Buying",
+      "Purchasing",
+      "Clothes",
+      "Online",
+      "E-Commerce"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Wreath",
+    "forbidden_words": [
+      "Flowers",
+      "Ring",
+      "Ornament",
+      "Circular",
+      "Decoration"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Size",
+    "forbidden_words": [
+      "Xs;S;M…",
+      "32;34;36…",
+      "Measurements",
+      "Changing Room",
+      "Fitting"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ponytail",
+    "forbidden_words": [
+      "Hairstyle",
+      "Secured",
+      "Back",
+      "Head",
+      "Long"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Season",
+    "forbidden_words": [
+      "Summer",
+      "Winters",
+      "Autumn",
+      "Spring",
+      "Months"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Calvin Klein",
+    "forbidden_words": [
+      "Luxury",
+      "Fashion",
+      "Underwear",
+      "Jeans",
+      "Apparels"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sindoor",
+    "forbidden_words": [
+      "Women",
+      "Married",
+      "Hair",
+      "Forehead",
+      "Partition"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Clovia",
+    "forbidden_words": [
+      "Brand",
+      "Lingerie",
+      "Nightwear",
+      "Women",
+      "Ladies"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Style",
+    "forbidden_words": [
+      "Trend",
+      "Fashion",
+      "Sense",
+      "Clothes",
+      "Cool"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Brace",
+    "forbidden_words": [
+      "Support",
+      "Steady",
+      "Straps",
+      "Ready",
+      "Device"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fabric",
+    "forbidden_words": [
+      "Cloth",
+      "Material",
+      "Texture",
+      "Colour",
+      "Stuff"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sexy",
+    "forbidden_words": [
+      "Beautiful",
+      "Hot",
+      "Stimulating",
+      "Erotic",
+      "Attractive"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bangles",
+    "forbidden_words": [
+      "Married",
+      "Bracelet",
+      "Women",
+      "Hands",
+      "Arms"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Creation",
+    "forbidden_words": [
+      "Make",
+      "Build",
+      "Existence",
+      "Manufacture",
+      "Engender"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Reversible",
+    "forbidden_words": [
+      "Both",
+      "Sides",
+      "Either",
+      "Right",
+      "Around"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Embroidery",
+    "forbidden_words": [
+      "Design",
+      "Pattern",
+      "Decoration",
+      "Stitching",
+      "Thread"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gel",
+    "forbidden_words": [
+      "Hair",
+      "Spikes",
+      "Rigid",
+      "Stand",
+      "Apply"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Symbol",
+    "forbidden_words": [
+      "Sign",
+      "Icon",
+      "Mark",
+      "Indicator",
+      "Visual"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bata",
+    "forbidden_words": [
+      "Shoes",
+      "Footwear",
+      "School",
+      "Leather",
+      "Slippers"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Elegant",
+    "forbidden_words": [
+      "Graceful",
+      "Dignified",
+      "Beautiful",
+      "Classy",
+      "Stylish"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Flip-Flop",
+    "forbidden_words": [
+      "Slippers",
+      "Sandals",
+      "Casual",
+      "Flat ",
+      "Footwear"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Purse",
+    "forbidden_words": [
+      "Money",
+      "Wallet",
+      "Cards",
+      "Leather",
+      "Clutch"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Umbrella",
+    "forbidden_words": [
+      "Rain",
+      "Rihanna",
+      "Downpour",
+      "Weather",
+      "Protect"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Material",
+    "forbidden_words": [
+      "Fabric",
+      "Base",
+      "Raw",
+      "Substance",
+      "Makes"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Makeup",
+    "forbidden_words": [
+      "Cosmetic",
+      "Facial",
+      "Foundation",
+      "Moisturize",
+      "Look"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Perfume",
+    "forbidden_words": [
+      "Deodrant",
+      "Spray",
+      "Fragrance",
+      "Aroma",
+      "Scent"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Pyjamas",
+    "forbidden_words": [
+      "Nightsuit",
+      "Sleep",
+      "Clothes",
+      "Nightwear",
+      "Clothing"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mangalsutra",
+    "forbidden_words": [
+      "Marriage",
+      "Wedding",
+      "Necklace",
+      "Bride",
+      "Women"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Camouflage",
+    "forbidden_words": [
+      "Military",
+      "Hidden",
+      "Blend",
+      "Disguise",
+      "Dye"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Skirt",
+    "forbidden_words": [
+      "Waist",
+      "Legs",
+      "Lehenga",
+      "Avoid",
+      "Women"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Socialite",
+    "forbidden_words": [
+      "Hilton",
+      "Person",
+      "Society",
+      "Gatherings",
+      "Events"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Kanjeevaram",
+    "forbidden_words": [
+      "Kanchipuram",
+      "Tamil Nadu",
+      "Saree",
+      "Silk",
+      "Bridals"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ootd",
+    "forbidden_words": [
+      "Outfit",
+      "Acronym",
+      "Dress",
+      "Clothing",
+      "Day"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Discount",
+    "forbidden_words": [
+      "Reduce",
+      "Decrease",
+      "Less",
+      "Price",
+      "Money"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Trimming",
+    "forbidden_words": [
+      "Shorten",
+      "Cutting",
+      "Machine",
+      "Haircut",
+      "Length"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Collar",
+    "forbidden_words": [
+      "Tie",
+      "Shirt",
+      "Coat",
+      "Neck",
+      "Dress"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cufflinks",
+    "forbidden_words": [
+      "Hold",
+      "Join",
+      "Shirt",
+      "Buttons",
+      "Tools"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Kaftan",
+    "forbidden_words": [
+      "Robe ",
+      "Tunic",
+      "Loose",
+      "Sleeves",
+      "Royalty"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Designer",
+    "forbidden_words": [
+      "Fashion",
+      "Clothes",
+      "Tailor",
+      "Interior",
+      "Person"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Dungaree",
+    "forbidden_words": [
+      "Jeans",
+      "Overalls",
+      "Straps",
+      "Denim",
+      "Cloth"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lifestyle",
+    "forbidden_words": [
+      "Way",
+      "Activities",
+      "Interests",
+      "Dressing",
+      "Choices"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ramp Walk",
+    "forbidden_words": [
+      "Model",
+      "Runway",
+      "Show",
+      "Designer",
+      "Fashion"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Figure",
+    "forbidden_words": [
+      "Shape",
+      "Size",
+      "Model",
+      "Weight",
+      "Looks"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sequin",
+    "forbidden_words": [
+      "Stars",
+      "Glitters",
+      "Dress",
+      "Shining",
+      "Decoration"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fashionista",
+    "forbidden_words": [
+      "Current",
+      "Style",
+      "Person",
+      "Follower",
+      "Devoted"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Jumpsuit",
+    "forbidden_words": [
+      "One-Piece",
+      "Prachuters",
+      "Sky-Divers",
+      "Garment",
+      "Women"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Madame",
+    "forbidden_words": [
+      "Brand",
+      "Ludhiana",
+      "Women",
+      "Girls",
+      "Clothing"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cocktail",
+    "forbidden_words": [
+      "Wine",
+      "Party",
+      "Dress",
+      "Alcohol",
+      "Mocktail"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Texture",
+    "forbidden_words": [
+      "Quality",
+      "Surface",
+      "Look",
+      "Art",
+      "Colour"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Slim-Fit",
+    "forbidden_words": [
+      "Skinny",
+      "Size",
+      "Tight",
+      "Legs",
+      "Exact"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Package",
+    "forbidden_words": [
+      "Box",
+      "Delivery",
+      "Gift",
+      "Parcel",
+      "Wrapped"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mehendi",
+    "forbidden_words": [
+      "Hand",
+      "Henna",
+      "Design ",
+      "Art",
+      "Bride"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Swag",
+    "forbidden_words": [
+      "Cool",
+      "Stylish",
+      "Classy",
+      "Elegant",
+      "Attitude"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Accessories",
+    "forbidden_words": [
+      "Jewelry",
+      "Clothes",
+      "Look",
+      "Bag",
+      "Item"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Shampoo",
+    "forbidden_words": [
+      "Hair",
+      "Liquid",
+      "Conditioner",
+      "Product",
+      "Dandruff"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Luxury",
+    "forbidden_words": [
+      "Expensive",
+      "Pricey",
+      "Money",
+      "Sophisticated",
+      "Classy"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Choker",
+    "forbidden_words": [
+      "Necklace",
+      "Women",
+      "Ladies",
+      "Fitting",
+      "Jewellery"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Fabulous",
+    "forbidden_words": [
+      "Great",
+      "Amazing",
+      "Extraordinary",
+      "Fantastic",
+      "Gorgeous"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sarees",
+    "forbidden_words": [
+      "Indian",
+      "Traditional",
+      "Marriage",
+      "Bride",
+      "Wrapped"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Turtleneck",
+    "forbidden_words": [
+      "Pullover",
+      "Polo Neck",
+      "Sweater",
+      "Black",
+      "Round"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Hat",
+    "forbidden_words": [
+      "Cowboy",
+      "Cap ",
+      "Head",
+      "Cover",
+      "Top"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Brand",
+    "forbidden_words": [
+      "Label",
+      "Types",
+      "Examples",
+      "Name",
+      "Term"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Costume",
+    "forbidden_words": [
+      "Dress",
+      "Style",
+      "Clothing",
+      "Type",
+      "Wear"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bandhini",
+    "forbidden_words": [
+      "Textile ",
+      "Fabric",
+      "Bindings",
+      "Handwoven",
+      "Design"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mufflers",
+    "forbidden_words": [
+      "Winters",
+      "Neck ",
+      "Warm",
+      "Accessory",
+      "Around"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Lakme",
+    "forbidden_words": [
+      "Face",
+      "Fashion",
+      "Cosmetics",
+      "Hul",
+      "Cream"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Keychain",
+    "forbidden_words": [
+      "Keys",
+      "Lock",
+      "Ring",
+      "Accessory",
+      "Object"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Trouser",
+    "forbidden_words": [
+      "Pant",
+      "Shirt",
+      "Jeans",
+      "Dress",
+      "Body"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sweatshop",
+    "forbidden_words": [
+      "Factory",
+      "Wages",
+      "Cloth",
+      "Manufacture",
+      "Low"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Pencil Skirt",
+    "forbidden_words": [
+      "Corporate",
+      "Slim",
+      "Fitting",
+      "Narrow",
+      "Straight"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sportswear",
+    "forbidden_words": [
+      "Exercise",
+      "Sports",
+      "Physical",
+      "Fitness",
+      "Clothes"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Stitching",
+    "forbidden_words": [
+      "Sewing",
+      "Clothes",
+      "Fitting",
+      "Knitting",
+      "Embriodery"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sandals",
+    "forbidden_words": [
+      "Shoes",
+      "Open",
+      "Strap",
+      "Flats",
+      "Footwear"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Stockings",
+    "forbidden_words": [
+      "Leggings",
+      "Fitting",
+      "Garments",
+      "Legs",
+      "Length"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Kurti",
+    "forbidden_words": [
+      "Women",
+      "Pajama",
+      "Indian",
+      "Jeans",
+      "Short"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Appearance",
+    "forbidden_words": [
+      "Looks",
+      "See",
+      "Impresssion",
+      "Outward",
+      "External"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Singlet",
+    "forbidden_words": [
+      "Undershirt",
+      "Undergarment",
+      "Sleveless",
+      "Athletes",
+      "Banyan"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Blouse",
+    "forbidden_words": [
+      "Saree",
+      "Garment",
+      "Petticoat",
+      "Women",
+      "Shirt"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Mule",
+    "forbidden_words": [
+      "Shoe",
+      "Back",
+      "Style",
+      "Horse",
+      "Donkey"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Comb",
+    "forbidden_words": [
+      "Hair",
+      "Brush",
+      "Tooth",
+      "Bristles",
+      "Style"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Goatee",
+    "forbidden_words": [
+      "Face",
+      "Hair",
+      "Moustache",
+      "Beard",
+      "Chin"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Tanishq",
+    "forbidden_words": [
+      "Tata",
+      "Jewellery",
+      "Brand ",
+      "Gold",
+      "Diamond"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Thermal",
+    "forbidden_words": [
+      "Winters",
+      "Warmer",
+      "Sweater",
+      "Innerwear",
+      "Cold"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Hemline",
+    "forbidden_words": [
+      "Edge",
+      "Lower",
+      "End",
+      "Line",
+      "Skirt"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Pashmina",
+    "forbidden_words": [
+      "Kashmir",
+      "Wool",
+      "Fine",
+      "Shawl",
+      "Textiles"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Stripe",
+    "forbidden_words": [
+      "Lines",
+      "Pattern",
+      "Shirt",
+      "Band",
+      "Design"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Nift",
+    "forbidden_words": [
+      "Institute",
+      "Fashion",
+      "Place",
+      "Study",
+      "Students"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Outfit",
+    "forbidden_words": [
+      "Dress",
+      "Clothes",
+      "Party",
+      "Garments",
+      "Particular"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cotton",
+    "forbidden_words": [
+      "White",
+      "Fluffy",
+      "Light",
+      "Soft",
+      "Wipe"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Backpack",
+    "forbidden_words": [
+      "Bag",
+      "Travel",
+      "Trekking",
+      "Hiking",
+      "Rucksack"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Turban",
+    "forbidden_words": [
+      "Head",
+      "Cloth",
+      "Wrap",
+      "Sikh",
+      "Wound"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Earrings",
+    "forbidden_words": [
+      "Accessories",
+      "Face",
+      "Jewellery",
+      "Pierce",
+      "Gold"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Floral",
+    "forbidden_words": [
+      "Flowers",
+      "Patterns",
+      "Print",
+      "Feminine",
+      "Summers"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gajra",
+    "forbidden_words": [
+      "Hair",
+      "Flowers",
+      "Love",
+      "Head",
+      "Round"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Zara",
+    "forbidden_words": [
+      "Women",
+      "Apparel",
+      "Spanish",
+      "Retailer",
+      "Brand"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Blazer",
+    "forbidden_words": [
+      "Coat",
+      "Two-Piece",
+      "Gentleman",
+      "Jacket",
+      "Tuxedo"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Chanel",
+    "forbidden_words": [
+      "Perfume",
+      "Ready-Made",
+      "Luxury",
+      "High-Fashion",
+      "French"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Phulkari",
+    "forbidden_words": [
+      "Punjab",
+      "Floral",
+      "Embroidery",
+      "Culture",
+      "Weaving"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Handkerchief",
+    "forbidden_words": [
+      "Cloth",
+      "Wipe",
+      "Dry",
+      "Pocket",
+      "Hankie"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bowtie",
+    "forbidden_words": [
+      "Formal",
+      "Collar",
+      "Shirt",
+      "Waiter",
+      "Necktie"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Ring",
+    "forbidden_words": [
+      "Wedding",
+      "Diamond",
+      "Finger",
+      "Engagement",
+      "Occasion"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sewing",
+    "forbidden_words": [
+      "Stitching",
+      "Machine",
+      "Needle",
+      "Threads",
+      "Sweaters"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Gucci",
+    "forbidden_words": [
+      "Italian",
+      "Fashion",
+      "Luxury",
+      "Leather",
+      "Florence"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Shoe",
+    "forbidden_words": [
+      "Formal",
+      "Jogging",
+      "Walk",
+      "Socks",
+      "Footwear"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Trend",
+    "forbidden_words": [
+      "Latest",
+      "Current",
+      "Present",
+      "Times",
+      "New"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Silhouette",
+    "forbidden_words": [
+      "Overall",
+      "Line",
+      "Light",
+      "Shape",
+      "Dark"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Vogue",
+    "forbidden_words": [
+      "Fashion",
+      "Magazine",
+      "Lifestyle",
+      "Beauty",
+      "Culture"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Seamstress",
+    "forbidden_words": [
+      "Sewing",
+      "Weaving",
+      "Occupation",
+      "Person",
+      "Woman"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "H&M",
+    "forbidden_words": [
+      "Brand",
+      "Company",
+      "Clothing",
+      "Fashion",
+      "Retail"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Washable",
+    "forbidden_words": [
+      "Machine",
+      "Handwash",
+      "Clothes",
+      "Feature",
+      "Water"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Retro",
+    "forbidden_words": [
+      "Past",
+      "Olden",
+      "Earlier",
+      "Style",
+      "Historical"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Pattern",
+    "forbidden_words": [
+      "Design",
+      "Repeated",
+      "Regularity",
+      "Predictable",
+      "Similarity"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Conditioner",
+    "forbidden_words": [
+      "Shampoo",
+      "Haircare",
+      "Mosituriser",
+      "Shine",
+      "Damage"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Sherwani",
+    "forbidden_words": [
+      "Jodhpuri",
+      "Coat",
+      "Achkan",
+      "Kurta",
+      "Bandhgala"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Trademark",
+    "forbidden_words": [
+      "Symbol",
+      "Sign",
+      "Style",
+      "Signature",
+      "Expression"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Bespoke",
+    "forbidden_words": [
+      "Customise",
+      "Customer",
+      "Specific",
+      "Particular",
+      "Commissioned"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Suspenders",
+    "forbidden_words": [
+      "Strap",
+      "Pant",
+      "Scout",
+      "Buckles",
+      "Support"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Hoodie",
+    "forbidden_words": [
+      "Sweatshirt",
+      "Jacket",
+      "Head",
+      "Cap",
+      "Cool"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Cosplay",
+    "forbidden_words": [
+      "Comicon",
+      "Character",
+      "Dress",
+      "Costume",
+      "Clothes"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Crown",
+    "forbidden_words": [
+      "King",
+      "Throne",
+      "Royal",
+      "Circular",
+      "Decoration"
+    ]
+  },
+  {
+    "_language": "EN",
+    "word": "Advertising",
+    "forbidden_words": [
+      "Marketing ",
+      "Needs",
+      "Buy",
+      "Sponsored",
+      "Promote"
+    ]
+  }
+]

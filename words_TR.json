@@ -1,0 +1,5491 @@
+[
+  {
+    "_language": "TR",
+    "word": "SANTRFOR",
+    "forbidden_words": [
+      "FUTBOL",
+      "OYUNCU",
+      "SAHA",
+      "FORVET",
+      "GOL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MOZAİK",
+    "forbidden_words": [
+      "KÜÇÜK",
+      "TAŞ",
+      "PASTA",
+      "DUVAR",
+      "PARÇA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SERTİFİKA",
+    "forbidden_words": [
+      "BELGE",
+      "ALMAK",
+      "VERMEK",
+      "EĞİTİM",
+      "KURS"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İNSAN SARRAFI",
+    "forbidden_words": [
+      "ANLAMAK",
+      "TANIMAK",
+      "İYİ",
+      "KÖTÜ",
+      "BİLMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ELİ YATKIN",
+    "forbidden_words": [
+      "BECERİKLİ",
+      "HAMARAT",
+      "İŞ",
+      "BİLMEK",
+      "ÇALIŞMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PİRAMİT",
+    "forbidden_words": [
+      "MISIR",
+      "ÜÇGEN",
+      "ŞEKİL",
+      "FİRAVUN",
+      "TAŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FRENK ÜZÜMÜ",
+    "forbidden_words": [
+      "KIRMIZI",
+      "ŞURUP",
+      "BÖĞÜRTLEN",
+      "AHUDUDU",
+      "MEYVE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MUTLU SON",
+    "forbidden_words": [
+      "HİKAYE",
+      "MASAL",
+      "FİLM",
+      "AŞK",
+      "BİTMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İŞ KURMAK",
+    "forbidden_words": [
+      "DÜKKAN",
+      "AÇMAK",
+      "PATRON",
+      "KENDİ",
+      "ŞİRKET"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÖZGÜVEN",
+    "forbidden_words": [
+      "SAYGI",
+      "KENDİ",
+      "İNANMAK",
+      "BAŞARMAK",
+      "EGO"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TİFTİK",
+    "forbidden_words": [
+      "KEÇİ",
+      "YÜN",
+      "KAZAK",
+      "YUMUŞAK",
+      "KIL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ULVİ",
+    "forbidden_words": [
+      "AMAÇ",
+      "YÜKSEK",
+      "ULU",
+      "YÜCE",
+      "BENZERSİZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LAÇKALAŞMAK",
+    "forbidden_words": [
+      "GEVŞEMEK",
+      "RAHAT",
+      "SAMİMİ",
+      "ORTAM",
+      "ESKİMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LARVA",
+    "forbidden_words": [
+      "KURTÇUK",
+      "KURBAĞA",
+      "SİNEK",
+      "YUMURTA",
+      "YAVRU"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KÖPEKBALIĞI",
+    "forbidden_words": [
+      "HAYVAN",
+      "YÜZGEÇ",
+      "JAWS",
+      "BALİNA",
+      "OKYANUS"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LIV TYLER",
+    "forbidden_words": [
+      "SİNEMA",
+      "OYUNCU",
+      "ARWEN",
+      "ARAGORN",
+      "ELF"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FİLETO",
+    "forbidden_words": [
+      "ET",
+      "KESMEK",
+      "İNCE",
+      "DİLİM",
+      "BALIK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "RANDIMAN",
+    "forbidden_words": [
+      "VERİM",
+      "ÇALIŞMAK",
+      "İŞ",
+      "SONUÇ",
+      "BAŞARI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LAFAZAN",
+    "forbidden_words": [
+      "KONUŞMAK",
+      "GEVEZE",
+      "SÖZ",
+      "HAZIRCEVAP",
+      "ANLATMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DERBEDER",
+    "forbidden_words": [
+      "DAĞINIK",
+      "TİTİZ",
+      "TEMİZ",
+      "YAŞAMAK",
+      "DÜZENSİZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MAT ETMEK",
+    "forbidden_words": [
+      "SATRANÇ",
+      "YENMEK",
+      "BİTİRMEK",
+      "ŞAH",
+      "ALT ETMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇİĞ BÖREK",
+    "forbidden_words": [
+      "YİYECEK",
+      "HAMUR",
+      "KIZARTMAK",
+      "MANTI",
+      "PUF BÖREĞİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MESANE",
+    "forbidden_words": [
+      "ŞİŞMEK",
+      "İDRAR",
+      "TORBA",
+      "KESE",
+      "ÇİŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SUDOKU",
+    "forbidden_words": [
+      "BULMACA",
+      "SAYI",
+      "YERLEŞTİRMEK",
+      "KARE",
+      "JAPONYA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DİNAR",
+    "forbidden_words": [
+      "PARA",
+      "BİRİM",
+      "IRAK",
+      "ARAP",
+      "KUVEYT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KALSİYUM",
+    "forbidden_words": [
+      "KEMİK",
+      "SÜT",
+      "PEYNİR",
+      "YOĞURT",
+      "DİŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ORTODONTİ",
+    "forbidden_words": [
+      "DİŞ",
+      "TIP",
+      "DAL",
+      "TEL",
+      "DOKTOR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAĞIT HAVLU",
+    "forbidden_words": [
+      "SİLMEK",
+      "RULO",
+      "KURULAMAK",
+      "DÖKÜLMEK",
+      "MUTFAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AYNASIZ",
+    "forbidden_words": [
+      "POLİS",
+      "ARGO",
+      "HIRSIZ",
+      "FİLM",
+      "KOMİSER"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PROJEKTÖR",
+    "forbidden_words": [
+      "YANSITMAK",
+      "SİNEMA",
+      "SUNUM",
+      "IŞIK",
+      "PERDE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ŞEHRAZAT",
+    "forbidden_words": [
+      "1001 GECE",
+      "MASAL",
+      "KAHRAMAN",
+      "ANLATMAK",
+      "BERGÜZAR KOREL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "EVHAM",
+    "forbidden_words": [
+      "PANİK",
+      "ŞÜPHE",
+      "KUŞKU",
+      "VESVESE",
+      "ENDİŞE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PARMAKLIK",
+    "forbidden_words": [
+      "HAPİSHANE",
+      "HIRSIZ",
+      "PENCERE",
+      "DEMİR",
+      "TAKMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İSHAL",
+    "forbidden_words": [
+      "SULU",
+      "MİDE",
+      "BOZMAK",
+      "TUVALET",
+      "BAĞIRSAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LEBİDERYA",
+    "forbidden_words": [
+      "DENİZ KENARI",
+      "SAHİL",
+      "EV",
+      "YAZLIK",
+      "MANZARA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HELLİM PEYNİRİ",
+    "forbidden_words": [
+      "KIBRIS",
+      "SALATA",
+      "KAŞAR",
+      "KIZARTMAK",
+      "KAHVALTI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "REKOLTE",
+    "forbidden_words": [
+      "TARIM",
+      "ÜRÜN",
+      "YIL",
+      "ALMAK",
+      "TARLA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DURAK",
+    "forbidden_words": [
+      "OTOBÜS",
+      "TREN",
+      "DOLMUŞ",
+      "İNMEK",
+      "BİNMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LOKAVT",
+    "forbidden_words": [
+      "GREV",
+      "İŞÇİ",
+      "ÇIKARMAK",
+      "PATRON",
+      "TOPLU"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "NİŞASTA",
+    "forbidden_words": [
+      "ŞEKER",
+      "KARBONHİDRAT",
+      "YİYECEK",
+      "PATATES",
+      "MISIR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ŞEBNEM FERAH",
+    "forbidden_words": [
+      "ŞARKICI",
+      "KADIN",
+      "ROCK",
+      "VOLVOX",
+      "VOKAL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "CAN SİMİDİ",
+    "forbidden_words": [
+      "DENİZ",
+      "YUVARLAK",
+      "TAKMAK",
+      "BOĞULMAK",
+      "VAPUR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAMP",
+    "forbidden_words": [
+      "ÇADIR",
+      "ORMAN",
+      "ATEŞ",
+      "UYKU TULUMU",
+      "İZCİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SONRADAN GÖRME",
+    "forbidden_words": [
+      "ZENGİN",
+      "FAKİR",
+      "GÖSTERİŞ",
+      "ÖVÜNMEK",
+      "ABARTMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KIYASIYA",
+    "forbidden_words": [
+      "MÜCADELE",
+      "ZORLU",
+      "REKABET",
+      "ÇEKİŞMELİ",
+      "KIRAN KIRANA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KANTİN",
+    "forbidden_words": [
+      "OKUL",
+      "TOST",
+      "KAFETERYA",
+      "ÖĞRENCİ",
+      "YEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TAKMA DİŞ",
+    "forbidden_words": [
+      "AĞIZ",
+      "YEMEK",
+      "YAŞLI",
+      "DÖKÜLMEK",
+      "DAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BEKÇİ",
+    "forbidden_words": [
+      "DÜDÜK",
+      "HIRSIZ",
+      "GÜVENLİK",
+      "KULÜBE",
+      "KORUMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FOS ÇIKMAK",
+    "forbidden_words": [
+      "GÜVENMEK",
+      "GERÇEKLEŞMEK",
+      "UMMAK",
+      "BOŞ",
+      "BEKLEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DANIEL CRAIG",
+    "forbidden_words": [
+      "JAMES BOND",
+      "AKTÖR",
+      "007",
+      "SARIŞIN",
+      "AJAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MALTA",
+    "forbidden_words": [
+      "ADA",
+      "ŞOVALYE",
+      "ÜLKE",
+      "AKDENİZ",
+      "ERİK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FİLE",
+    "forbidden_words": [
+      "PAZAR",
+      "TORBA",
+      "İP",
+      "BASKETBOL",
+      "TAŞIMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ZINEDINE ZIDANE",
+    "forbidden_words": [
+      "FUTBOL",
+      "JUBİLE",
+      "CEZAYİR",
+      "FRANSA",
+      "REAL MADRİD"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MENEMEN",
+    "forbidden_words": [
+      "YEMEK",
+      "YUMURTA",
+      "DOMATES",
+      "TAVA",
+      "BİBER"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TUNİK",
+    "forbidden_words": [
+      "GİYSİ",
+      "PANTOLON",
+      "ETEK",
+      "UZUN",
+      "ELBİSE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KÖSTEK OLMAK",
+    "forbidden_words": [
+      "ENGEL",
+      "MANİ",
+      "DESTEK",
+      "YARDIM",
+      "ÖNLEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇAPAK",
+    "forbidden_words": [
+      "GÖZ",
+      "SABAH",
+      "KURUMAK",
+      "UYKU",
+      "KENAR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BOZKIR",
+    "forbidden_words": [
+      "BİTKİ",
+      "TOPRAK",
+      "KIRAÇ",
+      "ÇAYIR",
+      "ORMAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "VATANDAŞ",
+    "forbidden_words": [
+      "ÜLKE",
+      "MİLLET",
+      "YURTTAŞ",
+      "YAŞAMAK",
+      "PASAPORT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BADEM EZMESİ",
+    "forbidden_words": [
+      "TATLI",
+      "ŞEKERLEME",
+      "YİYECEK",
+      "LOKUM",
+      "FISTIK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KARNABAHAR",
+    "forbidden_words": [
+      "SEBZE",
+      "MEYVE",
+      "YEMEK",
+      "BEYAZ",
+      "BROKOLİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇEKİCİ",
+    "forbidden_words": [
+      "KADIN",
+      "GÜZEL",
+      "SEKSİ",
+      "ALIMLI",
+      "İTİCİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "CANAN",
+    "forbidden_words": [
+      "SEVGİLİ",
+      "AŞIK OLMAK",
+      "GÖNÜL VERMEK",
+      "KADIN",
+      "YAR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TUĞRA",
+    "forbidden_words": [
+      "OSMANLI",
+      "İMZA",
+      "PADİŞAH",
+      "SEMBOL",
+      "İSİM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BLENDER",
+    "forbidden_words": [
+      "KARIŞTIRMAK",
+      "PARÇALAMAK",
+      "MUTFAK",
+      "ALET",
+      "YEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KROMOZOM",
+    "forbidden_words": [
+      "X",
+      "Y",
+      "GENETİK",
+      "DNA",
+      "HÜCRE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SİYAH KUŞAK",
+    "forbidden_words": [
+      "UZAK DOĞU",
+      "JUDO",
+      "KARATE",
+      "SPOR",
+      "AİKİDO"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BÜZGÜ",
+    "forbidden_words": [
+      "DİKMEK",
+      "KUMAŞ",
+      "İPLİK",
+      "KIVRIM",
+      "BOLLUK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "NÜFUS SAYIMI",
+    "forbidden_words": [
+      "ÜLKE",
+      "YAŞAMAK",
+      "İNSAN",
+      "MEMUR",
+      "EV"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KETEN",
+    "forbidden_words": [
+      "KUMAŞ",
+      "PANTOLON",
+      "YAZLIK",
+      "CEKET",
+      "BURUŞMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HACI BEKTAŞ-I VELİ",
+    "forbidden_words": [
+      "ALEVİ",
+      "TASAVVUF",
+      "ŞENLİK",
+      "MEVLANA",
+      "FIKRA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "VAZELİN",
+    "forbidden_words": [
+      "YUMUŞAK",
+      "SÜRMEK",
+      "EL",
+      "AYAK",
+      "KREM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AMONYAK",
+    "forbidden_words": [
+      "SULU",
+      "TEMİZLİK",
+      "KOKU",
+      "ARI SOKMASI",
+      "SAÇ BOYASI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SOLARYUM",
+    "forbidden_words": [
+      "GÜNEŞ",
+      "YANMAK",
+      "BRONZLAŞMAK",
+      "TEN",
+      "ESMER"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MAKSAT",
+    "forbidden_words": [
+      "AMAÇ",
+      "AŞMAK",
+      "İSTEMEK",
+      "NEDEN",
+      "SEBEP"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GENSORU",
+    "forbidden_words": [
+      "TBMM",
+      "ÖNERGE",
+      "BAKAN",
+      "MİLLETVEKİLİ",
+      "SORUŞTURMA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MESİRE",
+    "forbidden_words": [
+      "YER",
+      "PİKNİK",
+      "GEZMEK",
+      "AĞAÇLIK",
+      "DOĞAL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BOA YILANI",
+    "forbidden_words": [
+      "HAYVAN",
+      "KOBRA",
+      "SÜRÜNGEN",
+      "UZUN",
+      "BÜYÜK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KORNEA",
+    "forbidden_words": [
+      "GÖZ",
+      "İRİS",
+      "GÖRMEK",
+      "PARÇA",
+      "YIRTMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MİZANSEN",
+    "forbidden_words": [
+      "YARATMAK",
+      "TAKLİT",
+      "SİNEMA",
+      "DÜZENLEMEK",
+      "SAHNE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "RANZA",
+    "forbidden_words": [
+      "YATAK",
+      "İKİ",
+      "KAT",
+      "KOĞUŞ",
+      "UYUMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ABİDİN DİNO",
+    "forbidden_words": [
+      "RESSAM",
+      "NAZIM HİKMET",
+      "FRANSA",
+      "MUTLULUK",
+      "SERGİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SİNEMASKOP",
+    "forbidden_words": [
+      "GENİŞ",
+      "SİYAH",
+      "BANT",
+      "ÇERÇEVE",
+      "FİLM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TESLİMAT",
+    "forbidden_words": [
+      "POSTA",
+      "KARGO",
+      "GÖNDERMEK",
+      "MEKTUP",
+      "ALMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BİLMECE",
+    "forbidden_words": [
+      "BULMACA",
+      "TEKERLEME",
+      "GİZLİ",
+      "SORMAK",
+      "OYUN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BANDANA",
+    "forbidden_words": [
+      "SAÇ",
+      "TAKMAK",
+      "EŞARP",
+      "BAĞLAMAK",
+      "GÜNEŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PÜSKÜRMEK",
+    "forbidden_words": [
+      "YANARDAĞ",
+      "LAV",
+      "SU",
+      "ÇIKARMAK",
+      "FIŞKIRMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ARSIZ",
+    "forbidden_words": [
+      "ŞIMARIK",
+      "TERBİYESİZ",
+      "DAYAK",
+      "UTANMAZ",
+      "YÜZSÜZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KORTEJ",
+    "forbidden_words": [
+      "TÖREN",
+      "KONVOY",
+      "ASKER",
+      "YÜRÜMEK",
+      "SIRA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ANKA KUŞU",
+    "forbidden_words": [
+      "HAYALİ",
+      "MASAL",
+      "EFSANE",
+      "KAF DAĞI",
+      "KÜL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HAMLET",
+    "forbidden_words": [
+      "KAHRAMAN",
+      "'OLMAK YADA OLMAMAK'",
+      "SHAKESPEARE",
+      "TİYATRO",
+      "SİNEMA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "STEPNE",
+    "forbidden_words": [
+      "LASTİK",
+      "YEDEK",
+      "TEKERLEK",
+      "ARABA",
+      "PATLATMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PANZEHİR",
+    "forbidden_words": [
+      "ŞIRINGA",
+      "İYİLEŞTİRMEK",
+      "MADDE",
+      "SOKMAK",
+      "YILAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DEFNE",
+    "forbidden_words": [
+      "YAPRAK",
+      "AĞAÇ",
+      "BALIK",
+      "KOKMAK",
+      "MİTOLOJİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "CANINA KASDETMEK",
+    "forbidden_words": [
+      "TEŞEBBÜS",
+      "ÖLDÜRMEK",
+      "YARALAMAK",
+      "CİNAYET",
+      "HAZIRLANMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SU TOPLAMAK",
+    "forbidden_words": [
+      "YARA",
+      "AYAK",
+      "YÜRÜMEK",
+      "EL",
+      "ŞİŞMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İSYANKAR",
+    "forbidden_words": [
+      "ASİ",
+      "GENÇ",
+      "DELİKANLI",
+      "BAŞKALDIRMAK",
+      "KAVGA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PUF",
+    "forbidden_words": [
+      "KOLTUK",
+      "OTURMAK",
+      "MİNDER",
+      "YUMUŞAK",
+      "ARMUT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SÜTLİMAN",
+    "forbidden_words": [
+      "SAKİN",
+      "SESSİZ",
+      "HUZURLU",
+      "DURGUN",
+      "OLAY"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MİSTİK",
+    "forbidden_words": [
+      "FAL",
+      "DOĞAÜSTÜ",
+      "GÜÇ",
+      "GİZEM",
+      "ESRARENGİZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GEBE",
+    "forbidden_words": [
+      "HAMİLE",
+      "KADIN",
+      "BEBEK",
+      "DOKUZ AY",
+      "KARIN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MAESTRO",
+    "forbidden_words": [
+      "ORKESTRA",
+      "YÖNETMEN",
+      "ŞEF",
+      "BESTECİ",
+      "KLASİK MÜZİK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KOKOŞ",
+    "forbidden_words": [
+      "SÜSLÜ",
+      "GİYİNMEK",
+      "HAVALI",
+      "AŞIRI",
+      "TAKIŞTIRMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SÖĞÜŞ",
+    "forbidden_words": [
+      "DOMATES",
+      "SALATALIK",
+      "KESMEK",
+      "SOĞUK",
+      "ET"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TON BALIĞI",
+    "forbidden_words": [
+      "SANDVİÇ",
+      "KONSERVE",
+      "ORKİNOS",
+      "SALATA",
+      "YEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KÜFE",
+    "forbidden_words": [
+      "SEPET",
+      "TAŞIMAK",
+      "HAMAL",
+      "YÜK",
+      "SIRT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAYDIRAK",
+    "forbidden_words": [
+      "OYUN",
+      "PARK",
+      "ÇOCUK",
+      "SALINCAK",
+      "TAHTEREVALLİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KIŞ UYKUSU",
+    "forbidden_words": [
+      "AYI",
+      "YATMAK",
+      "SOĞUK",
+      "SÜRÜNGEN",
+      "HAYVAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MOTİVASYON",
+    "forbidden_words": [
+      "TEŞVİK",
+      "KIRMAK",
+      "İSTEK",
+      "MORAL",
+      "HEVES"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GÖZ KULAK OLMAK",
+    "forbidden_words": [
+      "İLGİLENMEK",
+      "ÇOCUK",
+      "BAKMAK",
+      "KORUMAK",
+      "BIRAKMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SULUBOYA",
+    "forbidden_words": [
+      "YAĞLIBOYA",
+      "RESİM",
+      "FIRÇA",
+      "PALET",
+      "RENK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BARUT",
+    "forbidden_words": [
+      "FIÇI",
+      "ATEŞ",
+      "PATLAMAK",
+      "TOP",
+      "SİLAH"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AĞIRBAŞLI",
+    "forbidden_words": [
+      "CİDDİ",
+      "OLGUN",
+      "HAREKET",
+      "SESSİZ",
+      "DAVRANIŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ANTİKOR",
+    "forbidden_words": [
+      "HASTALIK",
+      "ZARAR",
+      "MADDE",
+      "VÜCUT",
+      "ÜRETMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "OBJEKTİF",
+    "forbidden_words": [
+      "FOTOĞRAF",
+      "MERCEK",
+      "KAMERA",
+      "CAM",
+      "TARAFSIZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MAŞALLAH",
+    "forbidden_words": [
+      "ALTIN",
+      "SÜNNET",
+      "NAZAR",
+      "GÜZEL",
+      "BEĞENMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KİLOGRAM",
+    "forbidden_words": [
+      "ÖLÇÜ",
+      "TARTMAK",
+      "LİTRE",
+      "AĞIRLIK",
+      "BİRİM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PARKE",
+    "forbidden_words": [
+      "YER",
+      "DÖŞEMEK",
+      "LAMİNANT",
+      "YÜRÜMEK",
+      "AHŞAP"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ŞÖLEN",
+    "forbidden_words": [
+      "KUTLAMA",
+      "YEMEK",
+      "İÇMEK",
+      "ZİYAFET",
+      "EĞLENCE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MUTANT",
+    "forbidden_words": [
+      "X-MEN",
+      "NİNJA KAPLUMBAĞALAR",
+      "İNSAN",
+      "DEĞİŞMEK",
+      "YARATIK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇATALHÖYÜK",
+    "forbidden_words": [
+      "ARKEOLOJİ",
+      "ANTİK",
+      "ANADOLU",
+      "ESKİ",
+      "KAZI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ANANAS",
+    "forbidden_words": [
+      "MEYVE",
+      "TROPİKAL",
+      "SEBZE",
+      "YEMEK",
+      "KONSERVE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AŞIK VEYSEL",
+    "forbidden_words": [
+      "MÜZİK",
+      "TÜRKÜ",
+      "TÜRK",
+      "OZAN",
+      "HALK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MANGA",
+    "forbidden_words": [
+      "ÇİZGİ ROMAN",
+      "ANİMASYON",
+      "JAPON",
+      "ASKER",
+      "TABUR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FOKURDAMAK",
+    "forbidden_words": [
+      "KAYNAMAK",
+      "SU",
+      "BALONCUK",
+      "SES ÇIKARMAK",
+      "BUHARLAŞMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KOMİ",
+    "forbidden_words": [
+      "GARSON",
+      "MUTFAK",
+      "LOKANTA",
+      "RESTORAN",
+      "YARDIMCI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MARJ",
+    "forbidden_words": [
+      "KAR",
+      "PAY",
+      "AYIRMAK",
+      "FİYAT",
+      "BOŞLUK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "METEOROLOJİ",
+    "forbidden_words": [
+      "HAVA DURUMU",
+      "TAHMİN",
+      "YAĞMUR",
+      "KAR",
+      "SICAKLIK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SFENKS",
+    "forbidden_words": [
+      "MISIR",
+      "PİRAMİT",
+      "İNSAN",
+      "ASLAN",
+      "HEYKEL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SU AYGIRI",
+    "forbidden_words": [
+      "HİPOPOTAM",
+      "MEMELİ",
+      "HAYVAN",
+      "İRİ",
+      "AFRİKA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BABİL KULESİ",
+    "forbidden_words": [
+      "EFSANE",
+      "İNŞA ETMEK",
+      "TANRI",
+      "ULAŞMAK",
+      "ESKİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AHENK",
+    "forbidden_words": [
+      "UYUM",
+      "ŞİİR",
+      "SES",
+      "DANS",
+      "UZLAŞMA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "POKER",
+    "forbidden_words": [
+      "KUMAR",
+      "İSKAMBİL KAĞIDI",
+      "OYUN",
+      "FLOŞ",
+      "DÖPER"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ETÜT",
+    "forbidden_words": [
+      "DERS ÇALIŞMAK",
+      "ÖĞRETMEN",
+      "ÖDEV",
+      "OKUL",
+      "KALMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ŞEHZADE",
+    "forbidden_words": [
+      "PADİŞAH",
+      "ÇOCUK",
+      "SULTAN",
+      "PRENS",
+      "ERKEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAFADAN ATMAK",
+    "forbidden_words": [
+      "UYDURMAK",
+      "SALLAMAK",
+      "BİLMEK",
+      "YALLAH",
+      "TEST"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "EFENDİ",
+    "forbidden_words": [
+      "BEY",
+      "SESLENMEK",
+      "KİBAR",
+      "AĞIRBAŞLI",
+      "NAZİK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AYASOFYA MÜZESİ",
+    "forbidden_words": [
+      "KİLİSE",
+      "TURİST",
+      "SULTANAHMET",
+      "TOPKAPI SARAYI",
+      "CAMİİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PARSEL",
+    "forbidden_words": [
+      "ARSA",
+      "SATMAK",
+      "BÖLÜM",
+      "TAPU",
+      "PARÇA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GÜZELLİK YARIŞMASI",
+    "forbidden_words": [
+      "KRALİÇE",
+      "MAYO",
+      "KAİNAT",
+      "JÜRİ",
+      "KIZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "POHPOHLAMAK",
+    "forbidden_words": [
+      "ÖVMEK",
+      "YALAKALIK",
+      "YAĞ ÇEKMEK",
+      "GAZA GETİRMEK",
+      "GÜZEL SÖZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "EŞEKARISI",
+    "forbidden_words": [
+      "BÜYÜK",
+      "SOKMAK",
+      "BAL",
+      "KOVAN",
+      "İĞNE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ERTUĞRUL ÖZKÖK",
+    "forbidden_words": [
+      "GAZETECİ",
+      "HÜRRİYET",
+      "YAZAR",
+      "YÖNETİCİ",
+      "YAYIN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BEL BAĞLAMAK",
+    "forbidden_words": [
+      "GÜVENMEK",
+      "YARDIM",
+      "MEDET UMMAK",
+      "İNANMAK",
+      "ARKADAŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KOTA",
+    "forbidden_words": [
+      "DOLDURMAK",
+      "KONTENJAN",
+      "SINIRLAMA",
+      "KISITLAMA",
+      "SAYI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BUZ DEVRİ",
+    "forbidden_words": [
+      "ESKİ ÇAĞ",
+      "SOĞUK",
+      "ERİMEK",
+      "KAR",
+      "ÇİZGİ FİLM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İMSAK",
+    "forbidden_words": [
+      "İFTAR",
+      "ORUÇ",
+      "SAHUR",
+      "RAMAZAN",
+      "EZAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BAYKUŞ",
+    "forbidden_words": [
+      "HAYVAN",
+      "KUŞ",
+      "GECE",
+      "UÇMAK",
+      "UĞURSUZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TARAFTAR",
+    "forbidden_words": [
+      "FUTBOL",
+      "TAKIM",
+      "TUTMAK",
+      "FANATİK",
+      "TEZAHÜRAT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SU BASKINI",
+    "forbidden_words": [
+      "SEL",
+      "YAĞMUR",
+      "MUSLUK",
+      "AÇIK",
+      "TAŞMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ŞEKERPARE",
+    "forbidden_words": [
+      "TATLI",
+      "ŞERBET",
+      "HAMUR",
+      "YUVARLAK",
+      "YEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KÖRDÜĞÜM",
+    "forbidden_words": [
+      "İP",
+      "AÇILMAK",
+      "KARIŞIK",
+      "ÇÖZMEK",
+      "BAĞLAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KADEH",
+    "forbidden_words": [
+      "İÇECEK",
+      "BARDAK",
+      "ŞARAP",
+      "CAM",
+      "RAKI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KALIBINI BASMAK",
+    "forbidden_words": [
+      "SAVUNMAK",
+      "İNANMAK",
+      "İDDİA",
+      "GÜVENMEK",
+      "DOĞRU"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "NEMRUT DAĞI",
+    "forbidden_words": [
+      "ADIYAMAN",
+      "ARKEOLOJİ",
+      "HEYKEL",
+      "GÜNBATIMI",
+      "TANRI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PALA BIYIK",
+    "forbidden_words": [
+      "SAKAL",
+      "YÜZ",
+      "YANAK",
+      "UZUN",
+      "KIVRIK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FELAKET TELLALI",
+    "forbidden_words": [
+      "KÖTÜMSER",
+      "ANLATMAK",
+      "SÖYLEMEK",
+      "HABER",
+      "OLAY"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PEKMEZ",
+    "forbidden_words": [
+      "TAHİN",
+      "ÜZÜM",
+      "DUT",
+      "TATLI",
+      "REÇEL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "YOUTUBE",
+    "forbidden_words": [
+      "VİDEO",
+      "PAYLAŞMAK",
+      "YÜKLEMEK",
+      "İNTERNET",
+      "SİTE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "CADI KAZANI",
+    "forbidden_words": [
+      "DÜŞMAN",
+      "HİLE",
+      "KAYNAMAK",
+      "DEDİKODU",
+      "DÜZEN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇAYIR",
+    "forbidden_words": [
+      "OTLAMAK",
+      "İNEK",
+      "YEŞİL",
+      "ÇİMEN",
+      "PİKNİK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KRAVAT",
+    "forbidden_words": [
+      "PAPYON",
+      "TAKMAK",
+      "GÖMLEK",
+      "TAKIM ELBİSE",
+      "BOYUN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TÖKEZLEMEK",
+    "forbidden_words": [
+      "SENDELEMEK",
+      "DÜŞMEK",
+      "AYAK",
+      "TAKILMAK",
+      "TAŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LOGO",
+    "forbidden_words": [
+      "ŞİRKET",
+      "SEMBOL",
+      "İSİM",
+      "AMBLEM",
+      "KURUMSAL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SOLAK",
+    "forbidden_words": [
+      "SAĞLAK",
+      "EL",
+      "YAZMAK",
+      "TUTMAK",
+      "KULLANMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FLORENCE NİGHTİNGALE",
+    "forbidden_words": [
+      "HEMŞİRE",
+      "HASTANE",
+      "KURMAK",
+      "SELİMİYE KIŞLASI",
+      "DOKTOR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İZDİVAÇ",
+    "forbidden_words": [
+      "EVLENMEK",
+      "YUVA",
+      "GELİN",
+      "DAMAT",
+      "NİKAH"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BENEK",
+    "forbidden_words": [
+      "ÇİL",
+      "NOKTA",
+      "YÜZ",
+      "LEKE",
+      "KÜÇÜK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KABZA",
+    "forbidden_words": [
+      "SİLAH",
+      "TABANCA",
+      "TUTMAK",
+      "SAP",
+      "KILIÇ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DOLMABAHÇE SARAYI",
+    "forbidden_words": [
+      "OSMANLI",
+      "BEŞİKTAŞ",
+      "ATATÜRK",
+      "PADİŞAH",
+      "TOPKAPI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İRMİK",
+    "forbidden_words": [
+      "HELVA",
+      "TATLI",
+      "BUĞDAY",
+      "UN",
+      "DAĞITMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HAZIRCEVAP",
+    "forbidden_words": [
+      "SORU",
+      "LAF",
+      "ÇABUK",
+      "BULMAK",
+      "HIZLI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "UKRAYNA",
+    "forbidden_words": [
+      "ÜLKE",
+      "RUSYA",
+      "KİEV",
+      "DOĞALGAZ",
+      "KARADENİZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇAR",
+    "forbidden_words": [
+      "RUSYA",
+      "PETRO",
+      "PADİŞAH",
+      "KRAL",
+      "YÖNETMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "POST",
+    "forbidden_words": [
+      "HAYVAN",
+      "DERİ",
+      "YÜZMEK",
+      "KÜRK",
+      "AYI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LİBERO",
+    "forbidden_words": [
+      "FUTBOL",
+      "TAKIM",
+      "MAÇ",
+      "DEFANS",
+      "ORTA SAHA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DEHLİZ",
+    "forbidden_words": [
+      "KORİDOR",
+      "YER ALTI",
+      "GİZLİ",
+      "KARANLIK",
+      "GEÇİT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇELİK KASA",
+    "forbidden_words": [
+      "PARA",
+      "DEĞERLİ",
+      "MÜCEVHER",
+      "EV",
+      "SAKLAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MÜJDE AR",
+    "forbidden_words": [
+      "SİNEMA",
+      "OYUNCU",
+      "SEKSİ",
+      "AYSEL GÜRSEL",
+      "ARABESK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FÖN ÇEKMEK",
+    "forbidden_words": [
+      "KUAFÖR",
+      "SAÇ",
+      "DÜZLEŞTİRMEK",
+      "MAKİNE",
+      "SICAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FAVORİ",
+    "forbidden_words": [
+      "BİRİNCİ",
+      "YARIŞMA",
+      "BEĞENMEK",
+      "SEVMEK",
+      "SAKAL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BABACAN",
+    "forbidden_words": [
+      "DAVRANMAK",
+      "GÜVENMEK",
+      "ADAM",
+      "ŞEFKAT",
+      "İYİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ASPENDOS",
+    "forbidden_words": [
+      "TİYATRO",
+      "ANTİK",
+      "ANTALYA",
+      "AÇIK HAVA",
+      "KONSER"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KÜLAH",
+    "forbidden_words": [
+      "ŞAPKA",
+      "KAĞIT",
+      "DONDURMA",
+      "DEĞİŞMEK",
+      "ANLATMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SLALOM",
+    "forbidden_words": [
+      "KAYAK",
+      "KAR",
+      "YARIŞ",
+      "BAYRAK",
+      "PİST"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ANTRENMAN",
+    "forbidden_words": [
+      "SPOR",
+      "KOŞU",
+      "EGZERSİZ",
+      "FUTBOLCU",
+      "İDMAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SAİT FAİK ABASIYANIK",
+    "forbidden_words": [
+      "EDEBİYAT",
+      "YAZAR",
+      "HİKAYE",
+      "TÜRK",
+      "BURGAZADA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇİVİ YAZISI",
+    "forbidden_words": [
+      "İLKÇAĞ",
+      "ESKİ",
+      "ASUR",
+      "SÜMER",
+      "TAŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AKROBAT",
+    "forbidden_words": [
+      "GÖSTERİ",
+      "YETENEK",
+      "SİRK",
+      "CAMBAZ",
+      "ESNEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KOLONYA",
+    "forbidden_words": [
+      "FERAHLIK",
+      "SÜRMEK",
+      "LİMON",
+      "DÖKMEK",
+      "MİSAFİR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "CANNES",
+    "forbidden_words": [
+      "FİLM",
+      "FESTİVAL",
+      "FRANSA",
+      "SAHİL",
+      "SİNEMA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ESPRİ YAPMAK",
+    "forbidden_words": [
+      "KOMİK",
+      "ŞAKA",
+      "ANLATMAK",
+      "GÜLMEK",
+      "KAHKAHA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MAKBUZ",
+    "forbidden_words": [
+      "AİDAT",
+      "BAĞIŞ",
+      "ÖDEME",
+      "KAĞIT",
+      "FATURA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MÜHİMMAT",
+    "forbidden_words": [
+      "DEPO",
+      "SAVAŞ",
+      "CEPHANE",
+      "ORDU",
+      "SİLAH"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GONG",
+    "forbidden_words": [
+      "SES",
+      "ZİL",
+      "TOKMAK",
+      "ÇINLAMAK",
+      "VURMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SOĞUK ALGINLIĞI",
+    "forbidden_words": [
+      "NEZLE",
+      "ÜŞÜTMEK",
+      "HASTA",
+      "BURUN",
+      "BOĞAZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇAĞLAYAN",
+    "forbidden_words": [
+      "ŞELALE",
+      "SU",
+      "AKMAK",
+      "NEHİR",
+      "YÜKSEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İMAMBAYILDI",
+    "forbidden_words": [
+      "YEMEK",
+      "PATLICAN",
+      "ZEYTİNYAĞLI",
+      "KARNIYARIK",
+      "DOMATES"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MACERA",
+    "forbidden_words": [
+      "OLAY",
+      "HEYECAN",
+      "ADRENALİN",
+      "YAŞAMAK",
+      "SAKİN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AHMET ÇAKAR",
+    "forbidden_words": [
+      "HAKEM",
+      "FUTBOL",
+      "ERMAN TOROĞLU",
+      "YARIŞMA",
+      "MAÇ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KALÇA",
+    "forbidden_words": [
+      "KADIN",
+      "SALLAMAK",
+      "VÜCUT",
+      "BACAK",
+      "JENNİFER LOPEZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HAKARET ETMEK",
+    "forbidden_words": [
+      "KÜFÜR",
+      "SÖZ",
+      "KÖTÜ",
+      "SÖYLEMEK",
+      "ÇİRKİN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KONDİSYON BİSİKLETİ",
+    "forbidden_words": [
+      "SPOR",
+      "EV",
+      "ÇEVİRMEK",
+      "KOŞU BANDI",
+      "ZAYIFLAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PAVURYA",
+    "forbidden_words": [
+      "YENGEÇ",
+      "İRİ",
+      "BÜYÜK",
+      "DENİZ",
+      "YEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PATENT",
+    "forbidden_words": [
+      "ALMAK",
+      "TESCİL",
+      "BULUŞ",
+      "TELİF HAKKI",
+      "KANITLAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ŞİŞİRMEK",
+    "forbidden_words": [
+      "BALON",
+      "LASTİK",
+      "ÜFLEMEK",
+      "POMPA",
+      "HAVA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HAFRİYAT",
+    "forbidden_words": [
+      "İNŞAAT",
+      "TOPRAK",
+      "BİNA",
+      "KAZMAK",
+      "KAMYON"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ASTRONOMİK",
+    "forbidden_words": [
+      "RAKAM",
+      "YÜKSEK",
+      "PAHALI",
+      "AŞIRI",
+      "GÖKYÜZÜ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAYKAY",
+    "forbidden_words": [
+      "BİNMEK",
+      "ÇOCUK",
+      "TEKERLEK",
+      "TAHTA",
+      "PATEN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MAVİ YOLCULUK",
+    "forbidden_words": [
+      "EGE",
+      "GEZİ",
+      "YAT",
+      "KİRALAMAK",
+      "AKDENİZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BOŞ BULUNMAK",
+    "forbidden_words": [
+      "DİKKATSİZ",
+      "DALGIN",
+      "DAVRANMAK",
+      "SÖYLEMEK",
+      "POT KIRMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ORHAN GENCEBAY",
+    "forbidden_words": [
+      "MÜZİSYEN",
+      "ARABESK",
+      "FERDİ TAYFUR",
+      "MÜSLÜM GÜRSES",
+      "BATSIN BU DÜNYA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DIŞLANMAK",
+    "forbidden_words": [
+      "ARKADAŞ",
+      "KONUŞMAK",
+      "ATMAK",
+      "ALMAK",
+      "ORTAM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "NEŞTER",
+    "forbidden_words": [
+      "AMELİYAT",
+      "BIÇAK",
+      "KESMEK",
+      "CERRAH",
+      "DOKTOR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ŞEBEKE",
+    "forbidden_words": [
+      "AĞ",
+      "DONANIM",
+      "ÖRGÜT",
+      "ELEKTRİK",
+      "TESİSAT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "YAREN",
+    "forbidden_words": [
+      "DOST",
+      "ARKADAŞ",
+      "SEVGİLİ",
+      "YAKIN",
+      "EŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SERE SERPE",
+    "forbidden_words": [
+      "GÜNEŞLENMEK",
+      "YATMAK",
+      "RAHAT",
+      "AÇIK SAÇIK",
+      "SERBEST"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TOKYO",
+    "forbidden_words": [
+      "ŞEHİR",
+      "JAPONYA",
+      "ADA",
+      "ASYA",
+      "BAŞKENT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İÇİNE DOĞMAK",
+    "forbidden_words": [
+      "HİSSETMEK",
+      "ÖNCE",
+      "BİLMEK",
+      "MALUM OLMAK",
+      "SEZMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BANKO",
+    "forbidden_words": [
+      "KESİN",
+      "AT YARIŞI",
+      "KAZANMAK",
+      "BAHİS",
+      "GARANTİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PİSBOĞAZ",
+    "forbidden_words": [
+      "OBUR",
+      "YEMEK",
+      "AÇGÖZLÜ",
+      "TOK",
+      "DOYMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇOBANYILDIZI",
+    "forbidden_words": [
+      "GÖKYÜZÜ",
+      "GECE",
+      "YÖN",
+      "PARLAK",
+      "KUTUP"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ALASKA",
+    "forbidden_words": [
+      "FRİGO",
+      "AMERİKA",
+      "SOĞUK",
+      "EYALET",
+      "RUSYA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BEYZBOL",
+    "forbidden_words": [
+      "SPOR",
+      "AMERİKA",
+      "TOP",
+      "VURMAK",
+      "SOPA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GÖRGÜ KURALLARI",
+    "forbidden_words": [
+      "ADAP",
+      "SAYGI",
+      "TERBİYE",
+      "TOPLUM",
+      "UYMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇİÇEK PASAJI",
+    "forbidden_words": [
+      "İSTANBUL",
+      "BEYOĞLU",
+      "NEVİZADE",
+      "YEMEK",
+      "İÇMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAĞIT HELVA",
+    "forbidden_words": [
+      "YİYECEK",
+      "TATLI",
+      "YUVARLAK",
+      "DONDURMA",
+      "KÜLAH"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DAMLA",
+    "forbidden_words": [
+      "SU",
+      "MUSLUK",
+      "GÖZ",
+      "YAĞMUR",
+      "KÜÇÜK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DENEY",
+    "forbidden_words": [
+      "KİMYA",
+      "LABORATUAR",
+      "FARE",
+      "BİLİM",
+      "TÜP"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TUŞ KİLİDİ",
+    "forbidden_words": [
+      "TELEFON",
+      "AÇIK",
+      "KAPALI",
+      "BASMAK",
+      "ARAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MİLADİ TAKVİM",
+    "forbidden_words": [
+      "GÜN",
+      "AY",
+      "ZAMAN",
+      "AJANDA",
+      "HİCRİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KÖŞE BUCAK",
+    "forbidden_words": [
+      "KAÇMAK",
+      "TEMİZLEMEK",
+      "HER YER",
+      "SAKLANMAK",
+      "DOLAŞMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "RENGİ ATMAK",
+    "forbidden_words": [
+      "KORKMAK",
+      "YIKAMAK",
+      "SOLMAK",
+      "YÜZ",
+      "SARARMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ALP ARSLAN",
+    "forbidden_words": [
+      "SELÇUKLU",
+      "HÜKÜMDAR",
+      "TÜRK",
+      "ANADOLU",
+      "MALAZGİRT SAVAŞI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KOLERA",
+    "forbidden_words": [
+      "HASTALIK",
+      "SALGIN",
+      "TİFO",
+      "İSHAL",
+      "BULAŞICI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "EBEVEYN",
+    "forbidden_words": [
+      "ANNE",
+      "BABA",
+      "ÇOCUK",
+      "AİLE",
+      "İKİLİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FRAPAN",
+    "forbidden_words": [
+      "ELBİSE",
+      "GİYSİ",
+      "DİKKAT ÇEKİCİ",
+      "RÜKÜŞ",
+      "HAVALI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KONTAK",
+    "forbidden_words": [
+      "KAFA",
+      "LENS",
+      "ANAHTAR",
+      "ARABA",
+      "TEMAS"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MURATHAN MUNGAN",
+    "forbidden_words": [
+      "EDEBİYAT",
+      "ŞAİR",
+      "ROMAN",
+      "YAZAR",
+      "KIRK ODA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BACANAK",
+    "forbidden_words": [
+      "EŞ",
+      "KARDEŞ",
+      "BALDIZ",
+      "KOCA",
+      "KIZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PSİKOLOJİ",
+    "forbidden_words": [
+      "SOSYOLOJİ",
+      "PSİKİYATRİ",
+      "RUHBİLİM",
+      "DEPRESYON",
+      "FREUD"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "RİZİKO",
+    "forbidden_words": [
+      "RİSK",
+      "ZARAR",
+      "TEHLİKE",
+      "YARIŞMA",
+      "TELEVİZYON"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DALGAKIRAN",
+    "forbidden_words": [
+      "DENİZ",
+      "BETON",
+      "KAYA",
+      "TEKNE",
+      "SET"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "REHİN VERMEK",
+    "forbidden_words": [
+      "KUYUMCU",
+      "BORÇ",
+      "PARA",
+      "MÜCEVHER",
+      "ALTIN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ZORUNA GİTMEK",
+    "forbidden_words": [
+      "BOZULMAK",
+      "ÜZÜLMEK",
+      "GÜCÜNE GİTMEK",
+      "DOKUNMAK",
+      "ONUR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ROKET",
+    "forbidden_words": [
+      "FÜZE",
+      "ATMAK",
+      "SAVAŞ",
+      "SİLAH",
+      "MENZİL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KARİDES",
+    "forbidden_words": [
+      "DENİZ",
+      "KABUKLU",
+      "JUMBO",
+      "ISTAKOZ",
+      "GÜVEÇ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DEJENERE",
+    "forbidden_words": [
+      "BOZULMAK",
+      "GENÇLİK",
+      "YOZLAŞMAK",
+      "NESİL",
+      "TOPLUM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇERKEZTAVUĞU",
+    "forbidden_words": [
+      "YEMEK",
+      "CEVİZ",
+      "MEZE",
+      "DİDİKLEMEK",
+      "ET"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İÇERLEMEK",
+    "forbidden_words": [
+      "ALINMAK",
+      "GÜCENMEK",
+      "ÜZÜLMEK",
+      "DARILMAK",
+      "KIRILMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HEYBE",
+    "forbidden_words": [
+      "ÇANTA",
+      "TORBA",
+      "EŞEK",
+      "TAŞIMAK",
+      "OMUZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PANSUMAN",
+    "forbidden_words": [
+      "YARA",
+      "TEMİZLEMEK",
+      "BAKMAK",
+      "HEMŞİRE",
+      "PAMUK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ZAMANE",
+    "forbidden_words": [
+      "ÇOCUK",
+      "BUGÜN",
+      "GENÇ",
+      "ŞİMDİ",
+      "YAKINMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ASMA YAPRAĞI",
+    "forbidden_words": [
+      "ÜZÜM",
+      "DOLMA",
+      "ŞARAP",
+      "SARMA",
+      "ZEYTİNYAĞI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SEMER",
+    "forbidden_words": [
+      "EYER",
+      "EŞEK",
+      "AT",
+      "SIRT",
+      "OTURMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MUŞMULA",
+    "forbidden_words": [
+      "BİTKİ",
+      "AĞAÇ",
+      "MEYVE",
+      "BURUŞUK",
+      "SURAT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "YAZLIK",
+    "forbidden_words": [
+      "EV",
+      "OTURMAK",
+      "GİTMEK",
+      "DENİZ",
+      "TATİL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "VOKAL",
+    "forbidden_words": [
+      "SES",
+      "ŞARKI",
+      "SÖYLEMEK",
+      "MÜZİK",
+      "YAPMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "JAMBON",
+    "forbidden_words": [
+      "KAHVALTI",
+      "SALAM",
+      "ET",
+      "SANDVİÇ",
+      "DANA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ULTRASON",
+    "forbidden_words": [
+      "BAKMAK",
+      "BEBEK",
+      "HAMİLE",
+      "ÇEKTİRMEK",
+      "RÖNTGEN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ALYUVAR",
+    "forbidden_words": [
+      "KAN",
+      "DAMAR",
+      "KIRMIZI",
+      "HÜCRE",
+      "AKYUVAR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TEZKERE",
+    "forbidden_words": [
+      "ASKERLİK",
+      "BİTİRMEK",
+      "BELGE",
+      "KAĞIT",
+      "ORDU"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DÜZ TABAN",
+    "forbidden_words": [
+      "ASKERLİK",
+      "AYAK",
+      "YÜRÜMEK",
+      "ORTOPEDİ",
+      "TOPUK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAYMAKAM",
+    "forbidden_words": [
+      "VALİ",
+      "İLÇE",
+      "YÖNETMEK",
+      "MEMUR",
+      "BELEDİYE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KALAY",
+    "forbidden_words": [
+      "BAKIR",
+      "TENCERE",
+      "KAP KACAK",
+      "AZARLAMAK",
+      "PARLATMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İLMEK",
+    "forbidden_words": [
+      "DÜĞÜM",
+      "HALI",
+      "ÖRMEK",
+      "ŞİŞ",
+      "TIĞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KANALİZASYON",
+    "forbidden_words": [
+      "LAĞIM",
+      "TUVALET",
+      "PİS",
+      "SU",
+      "YER ALTI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MAHSUL",
+    "forbidden_words": [
+      "ÜRÜN",
+      "TARLA",
+      "TOPLAMAK",
+      "VERİM",
+      "ÇİFTÇİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BURNUNDAN GETİRMEK",
+    "forbidden_words": [
+      "RAHATSIZ ETMEK",
+      "FİTİL FİTİL",
+      "PİŞMAN ETMEK",
+      "BOZMAK",
+      "ZEHİR ETMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "CEZVE",
+    "forbidden_words": [
+      "KAHVE",
+      "FAL",
+      "PİŞİRMEK",
+      "SAP",
+      "TELVE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BAHANE",
+    "forbidden_words": [
+      "ARAMAK",
+      "UYDURMAK",
+      "YALAN",
+      "SEBEP",
+      "SÖYLEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KONFETİ",
+    "forbidden_words": [
+      "KAĞIT",
+      "MAÇ",
+      "RENKLİ",
+      "ATMAK",
+      "DÜĞÜN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GANİMET",
+    "forbidden_words": [
+      "SAVAŞ",
+      "TOPLAMAK",
+      "YAĞMA",
+      "KORSAN",
+      "ÇALMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "JOHN LENNON",
+    "forbidden_words": [
+      "MÜZİSYEN",
+      "BEATLES",
+      "YOKO ONO",
+      "ŞARKICI",
+      "IMAGİNE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FACEBOOK",
+    "forbidden_words": [
+      "İNTERNET",
+      "ARKADAŞLIK",
+      "SİTE",
+      "FOTOĞRAF",
+      "ÜYE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TEKZİP",
+    "forbidden_words": [
+      "YALANLAMAK",
+      "GERÇEK",
+      "GAZETE",
+      "YAYINLAMAK",
+      "HABER"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ZİGON",
+    "forbidden_words": [
+      "MOBİLYA",
+      "İÇ İÇE",
+      "SEHPA",
+      "MİSAFİR",
+      "SALON"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KOALA",
+    "forbidden_words": [
+      "AVUSTRALYA",
+      "HAYVAN",
+      "AYI",
+      "OKALİPTÜS",
+      "AĞAÇ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SEÇENEK",
+    "forbidden_words": [
+      "ŞIK",
+      "SINAV",
+      "OPSİYON",
+      "ALTERNATİF",
+      "BAŞKA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KUBBE",
+    "forbidden_words": [
+      "CAMİİ",
+      "YUVARLAK",
+      "AYASOFYA",
+      "KÜRE",
+      "ÇATI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HEIDI KLUM",
+    "forbidden_words": [
+      "MANKEN",
+      "TOP MODEL",
+      "SEAL",
+      "DEFİLE",
+      "ALMAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇEMEN",
+    "forbidden_words": [
+      "PASTIRMA",
+      "ACI",
+      "SOS",
+      "SÜRMEK",
+      "KOKULU"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DENİZKESTANESİ",
+    "forbidden_words": [
+      "BATMAK",
+      "DİKEN",
+      "KABUK",
+      "AYAK",
+      "YUVARLAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "CASUS",
+    "forbidden_words": [
+      "JAMES BOND",
+      "GİZLİ",
+      "AJAN",
+      "MATA HARI",
+      "007"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KUVAY-I MİLLİYE",
+    "forbidden_words": [
+      "KURTULUŞ SAVAŞI",
+      "MUSTAFA KEMAL ATATÜRK",
+      "ORDU",
+      "HALK",
+      "İSTİKLAL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SATIR",
+    "forbidden_words": [
+      "BIÇAK",
+      "ET",
+      "DOĞRAMAK",
+      "YAZI",
+      "KESMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LEHİMLEMEK",
+    "forbidden_words": [
+      "YAPIŞTIRMAK",
+      "TUTTURMAK",
+      "METAL",
+      "PARÇA",
+      "KAYNAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "EĞİLİM",
+    "forbidden_words": [
+      "İLGİ",
+      "YÖNETMEK",
+      "MERAK",
+      "MEYİL",
+      "İSTEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DİNOZOR",
+    "forbidden_words": [
+      "TÜKENMEK",
+      "HAYVAN",
+      "JURRASIC PARK",
+      "FOSİL",
+      "T-REX"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "OKLAVA",
+    "forbidden_words": [
+      "HAMUR",
+      "AÇMAK",
+      "BÖREK",
+      "MERDANE",
+      "SOPA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KÜLBASTI",
+    "forbidden_words": [
+      "ET",
+      "PİRZOLA",
+      "IZGARA",
+      "KEMİKSİZ",
+      "DANA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PLANÖR",
+    "forbidden_words": [
+      "UÇMAK",
+      "HAVA",
+      "GÖKYÜZÜ",
+      "MOTOR",
+      "KANAT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FETHİYE",
+    "forbidden_words": [
+      "MUĞLA",
+      "ÖLÜDENİZ",
+      "TATİL",
+      "AKDENİZ",
+      "KELEBEKLER VADİSİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LATİN AMERİKA",
+    "forbidden_words": [
+      "GÜNEY",
+      "KITA",
+      "BREZİLYA",
+      "ÜLKE",
+      "ARJANTİN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "CANLI YAYIN",
+    "forbidden_words": [
+      "TELEVİZYON",
+      "NAKLEN",
+      "HABER",
+      "BAĞLANMAK",
+      "MAÇ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LCD EKRAN",
+    "forbidden_words": [
+      "TELEVİZYON",
+      "BİLGİSAYAR",
+      "PLAZMA",
+      "İNCE",
+      "SEYRETMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GASTRONOMİ",
+    "forbidden_words": [
+      "YEMEK",
+      "BİLİM",
+      "AŞÇI",
+      "MUTFAK",
+      "GURME"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GOTİK",
+    "forbidden_words": [
+      "ORTAÇAĞ",
+      "MİMARİ",
+      "GENÇLİK",
+      "SİYAH",
+      "PUNK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ELİŞİ",
+    "forbidden_words": [
+      "DANTEL",
+      "ÖRGÜ",
+      "ÇEYİZ",
+      "OKUL",
+      "DERS"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GELİNLİK",
+    "forbidden_words": [
+      "EVLİLİK",
+      "DUVAK",
+      "GİYMEK",
+      "BEYAZ",
+      "ELBİSE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KRATER",
+    "forbidden_words": [
+      "AY",
+      "GÖKTAŞI",
+      "ÇUKUR",
+      "YANARDAĞ",
+      "VOLKAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "NARSİST",
+    "forbidden_words": [
+      "HAYRAN",
+      "BENCİL",
+      "EGOİST",
+      "SEVMEK",
+      "KENDİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "EKÜRİ",
+    "forbidden_words": [
+      "AT",
+      "İKİLİ",
+      "ARKADAŞ",
+      "YARIŞ",
+      "ORTAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HEBA ETMEK",
+    "forbidden_words": [
+      "ZARAR",
+      "HARCAMAK",
+      "ZİYAN ETMEK",
+      "YİTİRMEK",
+      "KAYBETMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TESTERE",
+    "forbidden_words": [
+      "FİLM",
+      "KORKU",
+      "ALET",
+      "KESMEK",
+      "AĞAÇ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KLİP",
+    "forbidden_words": [
+      "MÜZİK",
+      "VİDEO",
+      "TELEVİZYON",
+      "İZLEMEK",
+      "ÇEKMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TÖREN",
+    "forbidden_words": [
+      "BAYRAK",
+      "NİKAH",
+      "RESMİ",
+      "AÇILIŞ",
+      "MERASİM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PARMESAN",
+    "forbidden_words": [
+      "PEYNİR",
+      "SALATA",
+      "İTALYAN",
+      "MAKARNA",
+      "ÜST"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AFACAN",
+    "forbidden_words": [
+      "YARAMAZ",
+      "ÇOCUK",
+      "ZEKİ",
+      "KARIŞTIRMAK",
+      "HAYLAZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AMBARGO",
+    "forbidden_words": [
+      "KOYMAK",
+      "ENGELLEMEK",
+      "ÜLKE",
+      "TİCARET",
+      "UYGULAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SANDIK",
+    "forbidden_words": [
+      "ÇEYİZ",
+      "TAHTA",
+      "EŞYA",
+      "SEÇİM",
+      "OY ATMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BEŞAMEL",
+    "forbidden_words": [
+      "SOS",
+      "ET",
+      "TAVUK",
+      "UN",
+      "SÜT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İÇİ GEÇMEK",
+    "forbidden_words": [
+      "UYUMAK",
+      "İSTEMEK",
+      "YATMAK",
+      "İSTEKSİZ",
+      "YAŞLI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İSPANYOL PAÇA",
+    "forbidden_words": [
+      "PANTOLON",
+      "KOT",
+      "GENİŞ",
+      "UÇ",
+      "MODA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SÜLALE",
+    "forbidden_words": [
+      "AİLE",
+      "AKRABA",
+      "SOY",
+      "TEYZE",
+      "AMCA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SARPA SARMAK",
+    "forbidden_words": [
+      "KARIŞMAK",
+      "ÇÖZMEK",
+      "İŞ",
+      "BOZULMAK",
+      "ZORLUK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GETTO",
+    "forbidden_words": [
+      "MAHALLE",
+      "ŞEHİR",
+      "AZINLIK",
+      "YABANCI",
+      "YAŞAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İFLAS ETMEK",
+    "forbidden_words": [
+      "HACİZ",
+      "BANKA",
+      "ŞİRKET",
+      "BORÇ",
+      "BATMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AÇIK FİKİRLİ",
+    "forbidden_words": [
+      "ANLAMAK",
+      "MODERN",
+      "YENİLİK",
+      "DÜŞÜNMEK",
+      "BAĞNAZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇULLANMAK",
+    "forbidden_words": [
+      "ABANMAK",
+      "ÜZERİNE GİTMEK",
+      "ÜSTÜNE DÜŞMEK",
+      "ATLAMAK",
+      "ZIPLAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "JUSTIN TIMBERLAKE",
+    "forbidden_words": [
+      "ŞARKICI",
+      "AMERİKA",
+      "DANS",
+      "ERKEK",
+      "BRITNEY SPEARS"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KABAKULAK",
+    "forbidden_words": [
+      "ÇOCUK",
+      "HASTALIK",
+      "KIZAMIK",
+      "SUÇİÇEĞİ",
+      "ŞİŞMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GARANTİ BELGESİ",
+    "forbidden_words": [
+      "BOZULMAK",
+      "TAMİR",
+      "YIL",
+      "TAAHHÜT",
+      "EŞYA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "EMRİVAKİ YAPMAK",
+    "forbidden_words": [
+      "OLDUBİTTİ",
+      "ANİ",
+      "ACELE",
+      "KARGAŞA",
+      "ZORLAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ROKFOR",
+    "forbidden_words": [
+      "PEYNİR",
+      "KÜF",
+      "SÜT",
+      "FRANSIZ",
+      "BEYAZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HİLAL",
+    "forbidden_words": [
+      "AY",
+      "ŞEKİL",
+      "DOLUNAY",
+      "YILDIZ",
+      "BAYRAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ABONE",
+    "forbidden_words": [
+      "DERGİ",
+      "AY",
+      "GAZETE",
+      "GELMEK",
+      "YONCA EVCİMİK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SİVİL TOPLUM",
+    "forbidden_words": [
+      "ÖRGÜT",
+      "DEVLET",
+      "BAĞIMSIZ",
+      "DERNEK",
+      "VAKIF"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DONMAK",
+    "forbidden_words": [
+      "BUZ",
+      "SIFIR",
+      "DERECE",
+      "SU",
+      "KIŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAFA DENGİ",
+    "forbidden_words": [
+      "ARKADAŞ",
+      "UYUMLU",
+      "ANLAŞMAK",
+      "AYNI",
+      "ZEVK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SÜVARİ",
+    "forbidden_words": [
+      "AT",
+      "ASKER",
+      "BİNMEK",
+      "SAVAŞ",
+      "PİYADE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SÜKUNET",
+    "forbidden_words": [
+      "DURGUN",
+      "SESSİZ",
+      "HUZURLU",
+      "DİNGİN",
+      "GÜRÜLTÜLÜ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BAŞI BAĞLI",
+    "forbidden_words": [
+      "EVLİ",
+      "NİŞANLI",
+      "SÖZLÜ",
+      "BEKAR",
+      "SEVGİLİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LÜLETAŞI",
+    "forbidden_words": [
+      "PİPO",
+      "BEYAZ",
+      "OYMAK",
+      "YUMUŞAK",
+      "ESKİŞEHİR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SUSPUS",
+    "forbidden_words": [
+      "SİNMEK",
+      "KONUŞMAK",
+      "SESSİZ",
+      "SUÇLU",
+      "CEVAP VERMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "JANT",
+    "forbidden_words": [
+      "ARABA",
+      "PARÇA",
+      "TEKERLEK",
+      "LASTİK",
+      "ÇELİK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MESULİYET",
+    "forbidden_words": [
+      "SORUMLULUK",
+      "GÖREV",
+      "İLGİ",
+      "YÜKLENMEK",
+      "ÜSTLENMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PASAJ",
+    "forbidden_words": [
+      "ÇARŞI",
+      "DÜKKAN",
+      "BEYOĞLU",
+      "ALIŞVERİŞ",
+      "KAPALI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "NOEL BABA",
+    "forbidden_words": [
+      "YILBAŞI",
+      "HEDİYE",
+      "REN GEYİĞİ",
+      "BACA",
+      "ARALIK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AT GÖZLÜĞÜ",
+    "forbidden_words": [
+      "SABİT FİKİRLİ",
+      "DÜŞÜNMEK",
+      "BAKMAK",
+      "DAR",
+      "TUTUCU"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BAŞA ÇIKMAK",
+    "forbidden_words": [
+      "GÜÇ",
+      "YETMEK",
+      "BAŞARMAK",
+      "ÜSTESİNDEN GELMEK",
+      "DERT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LOKAL",
+    "forbidden_words": [
+      "ANESTEZİ",
+      "ULUSLARARASI",
+      "DERNEK",
+      "GECE KULÜBÜ",
+      "YEREL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PİYON",
+    "forbidden_words": [
+      "SATRANÇ",
+      "TAŞ",
+      "ŞAH",
+      "VEZİR",
+      "OYUN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ŞAHİN",
+    "forbidden_words": [
+      "KARTAL",
+      "DOĞAN",
+      "KUŞ",
+      "YIRTICI",
+      "ARABA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FOBİ",
+    "forbidden_words": [
+      "KORKU",
+      "ÖRÜMCEK",
+      "YÜKSEKLİK",
+      "AŞIRI",
+      "PANİK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "VAKIF",
+    "forbidden_words": [
+      "HAYIR İŞİ",
+      "BAĞIŞ",
+      "KURULUŞ",
+      "DERNEK",
+      "YARDIM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TOLERANS",
+    "forbidden_words": [
+      "HOŞGÖRÜ",
+      "ANLAYIŞ",
+      "GÖSTERMEK",
+      "MÜSAMAHA",
+      "HATA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "RASTGELE",
+    "forbidden_words": [
+      "HERHANGİ",
+      "GELİŞİGÜZEL",
+      "SEÇMEK",
+      "SESLENMEK",
+      "BALIKÇI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AFİŞ",
+    "forbidden_words": [
+      "ASMAK",
+      "DUVAR",
+      "KONSER",
+      "SİNEMA",
+      "FİLM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FONDÖTEN",
+    "forbidden_words": [
+      "MAKYAJ",
+      "SÜRMEK",
+      "YÜZ",
+      "KAPATICI",
+      "PUDRA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TEDBİRLİ",
+    "forbidden_words": [
+      "ÖNLEMEK",
+      "HAZIRLIKLI",
+      "ALMAK",
+      "ÖNCE",
+      "DÜŞÜNMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇAKIŞMAK",
+    "forbidden_words": [
+      "ÜST ÜSTE",
+      "AYNI",
+      "ZAMAN",
+      "DENK GELMEK",
+      "KESİŞMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "IZGARA",
+    "forbidden_words": [
+      "MANGAL",
+      "PİŞİRMEK",
+      "ET",
+      "TAVUK",
+      "BARBEKÜ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FENG SHUI",
+    "forbidden_words": [
+      "DEKORASYON",
+      "TARZ",
+      "UZAK DOĞU",
+      "MEKAN",
+      "EV"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ORHAN PAMUK",
+    "forbidden_words": [
+      "ROMAN",
+      "NOBEL",
+      "YAZAR",
+      "BENİM ADIM KIRMIZI",
+      "MASUMİYET MÜZESİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HOROZLANMAK",
+    "forbidden_words": [
+      "DAYILANMAK",
+      "KAFA TUTMAK",
+      "DİKLEŞMEK",
+      "KAVGA",
+      "CESARET"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MEKİK ÇEKMEK",
+    "forbidden_words": [
+      "KARIN KASI",
+      "EGZERSİZ",
+      "GÖBEK",
+      "SPOR",
+      "ŞINAV ÇEKMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "OYUN HAVASI",
+    "forbidden_words": [
+      "GÖBEK",
+      "DANS ETMEK",
+      "ORYANTAL",
+      "MÜZİK",
+      "EĞLENMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ELİ SIKI",
+    "forbidden_words": [
+      "CİMRİ",
+      "PARA",
+      "HARCAMAK",
+      "BİRİKTİRMEK",
+      "TUTUMLU"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GIDIK",
+    "forbidden_words": [
+      "ÖPMEK",
+      "BEBEK",
+      "ÇENE",
+      "GERDAN",
+      "ŞİŞMAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "YETİNMEK",
+    "forbidden_words": [
+      "AZ",
+      "ÇOK",
+      "İSTEMEK",
+      "İDARE ETMEK",
+      "SAHİP OLMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MAGMA",
+    "forbidden_words": [
+      "YER ALTI",
+      "VOLKAN",
+      "ERİMEK",
+      "YANARDAĞ",
+      "LAV"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KÖÇEK",
+    "forbidden_words": [
+      "DANSÖZ",
+      "ORYANTAL",
+      "OYNAMAK",
+      "DÜĞÜN",
+      "ERKEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "JACK SPARROW",
+    "forbidden_words": [
+      "JOHNY DEPP",
+      "KARAYİP",
+      "KORSAN",
+      "KAPTAN",
+      "FİLM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KISITLI",
+    "forbidden_words": [
+      "İMKAN",
+      "AZ",
+      "SINIRLI",
+      "YOKLUK",
+      "OLANAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "NEJAT İŞLER",
+    "forbidden_words": [
+      "AKTÖR",
+      "SİNEMA",
+      "DİZİ",
+      "BARDA",
+      "TELEVİZYON"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PAÇANGA BÖREĞİ",
+    "forbidden_words": [
+      "PASTIRMA",
+      "MEYHANE",
+      "MEZE",
+      "YEMEK",
+      "ARA SICAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "RİMEL",
+    "forbidden_words": [
+      "GÖZ",
+      "MAKYAJ",
+      "KADIN",
+      "SÜRMEK",
+      "KİRPİK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KÜÇÜK DÜŞÜRMEK",
+    "forbidden_words": [
+      "DALGA GEÇMEK",
+      "GÜLMEK",
+      "ALAY",
+      "AŞAĞILAMAK",
+      "UTANDIRMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HOVARDA",
+    "forbidden_words": [
+      "ÇAPKIN",
+      "SEVGİLİ",
+      "GECE",
+      "PARA HARCAMAK",
+      "GÖNÜL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TEFLON",
+    "forbidden_words": [
+      "EMAYE",
+      "TAVA",
+      "YAPIŞMAK",
+      "ÇELİK",
+      "ÇİZMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AVUÇ",
+    "forbidden_words": [
+      "EL",
+      "AÇMAK",
+      "DİLENCİ",
+      "FAL",
+      "AYA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DAYANIKLI",
+    "forbidden_words": [
+      "EŞYA",
+      "SAĞLAM",
+      "KIRILMAK",
+      "BOZULMAK",
+      "TÜKETİM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AVUCUNU YALAMAK",
+    "forbidden_words": [
+      "ALMAK",
+      "KALMAK",
+      "KAYBETMEK",
+      "İSTEMEK",
+      "BİTMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "UZANMAK",
+    "forbidden_words": [
+      "YORGUN",
+      "HASTA",
+      "YATMAK",
+      "TV",
+      "DİNLENMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ENDAMLI",
+    "forbidden_words": [
+      "UZUN",
+      "GÖSTERİŞLİ",
+      "BOYLU POSLU",
+      "GÜZEL",
+      "ZARAFET"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "NEON",
+    "forbidden_words": [
+      "IŞIK",
+      "TABELA",
+      "RENKLİ",
+      "LAMBA",
+      "GAZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BANLİYÖ",
+    "forbidden_words": [
+      "TAŞRA",
+      "MERKEZ",
+      "UZAK",
+      "OTURMAK",
+      "TREN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SAF KAN",
+    "forbidden_words": [
+      "AT",
+      "CİNS",
+      "IRK",
+      "ÖZELLİK",
+      "KARIŞMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İPUCU",
+    "forbidden_words": [
+      "DEDEKTİF",
+      "POLİS",
+      "ÇÖZMEK",
+      "DELİL",
+      "ARAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KÜRE",
+    "forbidden_words": [
+      "DAİRE",
+      "FAL",
+      "DÜNYA",
+      "YUVARLAK",
+      "ŞEKİL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SAĞANAK",
+    "forbidden_words": [
+      "YAĞMUR",
+      "HAVA",
+      "KAR",
+      "BULUT",
+      "ŞEMSİYE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LEHÇE",
+    "forbidden_words": [
+      "DİL",
+      "KONUŞMAK",
+      "ŞİVE",
+      "AĞIZ",
+      "FARKLI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BAHSE GİRMEK",
+    "forbidden_words": [
+      "İDDİA",
+      "AT YARIŞI",
+      "MAÇ",
+      "PARA",
+      "KUMAR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MAMA SANDALYESİ",
+    "forbidden_words": [
+      "BEBEK",
+      "YEMEK",
+      "OTURMAK",
+      "YÜKSEK",
+      "ÇOCUK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TAARRUZ",
+    "forbidden_words": [
+      "SALDIRI",
+      "ESKİ",
+      "SAVAŞ",
+      "EMRİ",
+      "HÜCUM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KULAK ZARI",
+    "forbidden_words": [
+      "ORGAN",
+      "DUYMAK",
+      "PATLAMAK",
+      "YÜZ",
+      "BURUN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HIMBIL",
+    "forbidden_words": [
+      "YAVAŞ",
+      "TEMBEL",
+      "UYUŞUK",
+      "HAREKET",
+      "ŞİŞMAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "REKABET",
+    "forbidden_words": [
+      "HIRS",
+      "ÇEKİŞME",
+      "YARIŞMA",
+      "RAKİP",
+      "SPOR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "FEMİNİST",
+    "forbidden_words": [
+      "KADIN",
+      "HAK",
+      "SAVUNMAK",
+      "EŞİTLİK",
+      "HAREKET"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ENDOSKOPİ",
+    "forbidden_words": [
+      "AĞIZ",
+      "KAMERA",
+      "MİDE",
+      "BORU",
+      "SOKMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MİMİK",
+    "forbidden_words": [
+      "YÜZ",
+      "ANLATMAK",
+      "İFADE",
+      "HAREKET",
+      "DUYGU"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AFYON",
+    "forbidden_words": [
+      "ŞEHİR",
+      "SUCUK",
+      "HAŞHAŞ",
+      "KAYMAK",
+      "PATLAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "NAİF",
+    "forbidden_words": [
+      "SAF",
+      "HASSAS",
+      "DUYGUSAL",
+      "MASUM",
+      "İYİ NİYETLİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KARBONHİDRAT",
+    "forbidden_words": [
+      "KALORİ",
+      "EKMEK",
+      "DİYET",
+      "MAKARNA",
+      "PROTEİN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SENDROM",
+    "forbidden_words": [
+      "BELİRTİ",
+      "HASTALIK",
+      "BUNALIM",
+      "PAZARTESİ",
+      "SIKINTI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KİNAYE",
+    "forbidden_words": [
+      "İĞNELEME",
+      "DOLAYLI",
+      "İMA ETME",
+      "ÜSTÜ KAPALI",
+      "LAF DOKUNDURMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇİZMEYİ AŞMAK",
+    "forbidden_words": [
+      "İLERİ GİTMEK",
+      "HADDİNİ AŞMAK",
+      "SINIR",
+      "BİLMEK",
+      "ÇİZGİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TAVUKGÖĞSÜ",
+    "forbidden_words": [
+      "TATLI",
+      "SÜT",
+      "MUHALLEBİ",
+      "KAZANDİBİ",
+      "YEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BUZ DAĞI",
+    "forbidden_words": [
+      "ICEBERG",
+      "TİTANİK",
+      "KUTUP",
+      "DENİZ",
+      "SOĞUK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DİSKO",
+    "forbidden_words": [
+      "DANS",
+      "MÜZİK",
+      "EĞLENMEK",
+      "GECE",
+      "KULÜP"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "YENİYETME",
+    "forbidden_words": [
+      "ÇOCUK",
+      "DELİKANLI",
+      "YAŞLI",
+      "GENÇ",
+      "YETİŞKİN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "HORON",
+    "forbidden_words": [
+      "KARADENİZ",
+      "LAZ",
+      "TULUM",
+      "TEPMEK",
+      "HALK OYUNU"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MÜLAKAT",
+    "forbidden_words": [
+      "SORU SORMAK",
+      "GÖRÜŞME",
+      "İŞE ALMAK",
+      "RÖPORTAJ",
+      "ÖZGEÇMİŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PİŞMANİYE",
+    "forbidden_words": [
+      "YİYECEK",
+      "TEL TEL",
+      "TATLI",
+      "İZMİT",
+      "YOLCULUK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İMA ETMEK",
+    "forbidden_words": [
+      "DOKUNDURMAK",
+      "DOĞRUDAN",
+      "DOLAYLI",
+      "SEZDİRMEK",
+      "SÖYLEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "STRAPLEZ",
+    "forbidden_words": [
+      "BLUZ",
+      "ÜST",
+      "ASKI",
+      "OMUZ",
+      "DEKOLTE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AĞIR AKSAK",
+    "forbidden_words": [
+      "YAVAŞ",
+      "DÜZENSİZ",
+      "HIZLI",
+      "DÖRTNALA",
+      "İLERLEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ISMARLAMAK",
+    "forbidden_words": [
+      "İSTEMEK",
+      "PARA",
+      "YEMEK",
+      "SİPARİŞ",
+      "ÖDEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "YALAP ŞAP",
+    "forbidden_words": [
+      "ÜSTÜNKÖRÜ",
+      "GELİŞİGÜZEL",
+      "TEMİZLİK",
+      "İŞ",
+      "CEVAPLAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ZONKLAMAK",
+    "forbidden_words": [
+      "BAŞ AĞRISI",
+      "VURMAK",
+      "AĞRIMAK",
+      "ŞAKAK",
+      "BEYİN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KRİZ MASASI",
+    "forbidden_words": [
+      "BELEDİYE",
+      "KURUL",
+      "FELAKET",
+      "DEPREM",
+      "OLUŞTURMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "YIL DÖNÜMÜ",
+    "forbidden_words": [
+      "KUTLAMA",
+      "EVLİLİK",
+      "ÖLÜM",
+      "GÜN",
+      "KURULUŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TANRI MİSAFİRİ",
+    "forbidden_words": [
+      "KONUK",
+      "EV",
+      "GELMEK",
+      "BEKLEMEK",
+      "ANİDEN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MAHCUP",
+    "forbidden_words": [
+      "ÇEKİNGEN",
+      "UTANGAÇ",
+      "GÜVENSİZ",
+      "RAHAT",
+      "GİRİŞKEN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ALAKART MÖNÜ",
+    "forbidden_words": [
+      "AÇIK BÜFE",
+      "FİKS MÖNÜ",
+      "SEÇMEK",
+      "RESTORAN",
+      "YEMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAMAROT",
+    "forbidden_words": [
+      "GEMİ",
+      "YOLCU",
+      "SERVİS",
+      "GÖREVLİ",
+      "KAPTAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "JÖN TÜRKLER",
+    "forbidden_words": [
+      "OSMANLI",
+      "MEŞRUTİYET",
+      "AYDIN",
+      "TOPLULUK",
+      "İTTİHAT VE TERAKKİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "EĞİK",
+    "forbidden_words": [
+      "DÜZ",
+      "ÇİZGİ",
+      "DİK",
+      "YAMUK",
+      "DURMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SLOGAN",
+    "forbidden_words": [
+      "ATMAK",
+      "MİTİNG",
+      "PARTİ",
+      "PROPAGANDA",
+      "SÖZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAFA TUTMAK",
+    "forbidden_words": [
+      "KAVGA ETMEK",
+      "TARTIŞMAK",
+      "KARŞI GELMEK",
+      "BOYUN EĞMEK",
+      "DİKLENMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BOĞA",
+    "forbidden_words": [
+      "HAYVAN",
+      "KIRMIZI",
+      "MATADOR",
+      "BURÇ",
+      "İSPANYA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PASKALYA",
+    "forbidden_words": [
+      "BAHAR",
+      "ÇÖREK",
+      "YUMURTA",
+      "HRİSTİYAN",
+      "BAYRAM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ABSÜRT",
+    "forbidden_words": [
+      "SAÇMA",
+      "KOMEDİ",
+      "UYUMSUZ",
+      "TUTARSIZ",
+      "FİLM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ATEŞKES",
+    "forbidden_words": [
+      "SAVAŞ",
+      "BARIŞ",
+      "BİTİRMEK",
+      "TESLİM OLMAK",
+      "ANLAŞMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KÖSE",
+    "forbidden_words": [
+      "KILSIZ",
+      "BIYIK",
+      "SAKAL",
+      "TÜY",
+      "TRAŞ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AĞAÇKAKAN",
+    "forbidden_words": [
+      "HAYVAN",
+      "KUŞ",
+      "GAGA",
+      "OYMAK",
+      "DELMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KITLAMA",
+    "forbidden_words": [
+      "ÇAY",
+      "İÇMEK",
+      "ŞEKER",
+      "ISIRMAK",
+      "ERZURUM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "REST ÇEKMEK",
+    "forbidden_words": [
+      "POKER",
+      "HEPSİ",
+      "PARA",
+      "SON VERMEK",
+      "KARŞI ÇIKMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KONTRBAS",
+    "forbidden_words": [
+      "ENSTRÜMAN",
+      "MÜZİK",
+      "ALET",
+      "KEMAN",
+      "YAYLI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "WOLVERINE",
+    "forbidden_words": [
+      "KURT ADAM",
+      "PENÇE",
+      "X-MEN",
+      "MUTASYON",
+      "MARVEL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "RACON",
+    "forbidden_words": [
+      "KESMEK",
+      "KABADAYI",
+      "ARGO",
+      "FİYAKA",
+      "DELİKANLI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TIRSMAK",
+    "forbidden_words": [
+      "KORKMAK",
+      "ÇEKİNMEK",
+      "ÜRKMEK",
+      "CESARET",
+      "BIRAKMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BONO",
+    "forbidden_words": [
+      "U2",
+      "SOLİST",
+      "TAHVİL",
+      "KAĞIT",
+      "HİSSE SENEDİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GEORGE LUCAS",
+    "forbidden_words": [
+      "YÖNETMEN",
+      "SİNEMA",
+      "STAR WARS",
+      "INDIANA JONES",
+      "FİLM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KOLAÇAN ETMEK",
+    "forbidden_words": [
+      "DEVRİYE",
+      "DOLAŞMAK",
+      "ETRAF",
+      "BAKMAK",
+      "KONTROL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ZULA",
+    "forbidden_words": [
+      "SAKLAMAK",
+      "GİZLİ",
+      "KOYMAK",
+      "KAÇAK",
+      "MAL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LİNYİT",
+    "forbidden_words": [
+      "KÖMÜR",
+      "MADEN",
+      "ZONGULDAK",
+      "SOBA",
+      "YANMAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İHTİMAL",
+    "forbidden_words": [
+      "BELKİ",
+      "OLASI",
+      "VERMEMEK",
+      "OLMAK",
+      "UMUT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "EFOR",
+    "forbidden_words": [
+      "GÜÇ",
+      "ÇABA",
+      "HARCAMAK",
+      "KALP",
+      "TEST"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DOLAP BEYGİRİ",
+    "forbidden_words": [
+      "DÖNMEK",
+      "BAĞLAMAK",
+      "AT",
+      "EŞEK",
+      "SÜREKLİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BUFALO",
+    "forbidden_words": [
+      "SIĞIR",
+      "AMERİKA",
+      "SÜRÜ",
+      "KOVBOY",
+      "BİZON"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SIĞINAK",
+    "forbidden_words": [
+      "SAVAŞ",
+      "BOMBA",
+      "SAKLANMAK",
+      "KAÇMAK",
+      "YER ALTI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ALYANS",
+    "forbidden_words": [
+      "EVLİLİK",
+      "YÜZÜK",
+      "KARI-KOCA",
+      "PARMAK",
+      "TAKMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ALKOLİK",
+    "forbidden_words": [
+      "İÇKİ",
+      "GÜN",
+      "AYYAŞ",
+      "ALIŞKANLIK",
+      "BAĞIMLI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ATARİ",
+    "forbidden_words": [
+      "BİLGİSAYAR",
+      "ESKİ",
+      "OYUN",
+      "BASİT",
+      "PROGRAM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MAYTAP",
+    "forbidden_words": [
+      "IŞIK",
+      "KIVILCIM",
+      "PASTA",
+      "DOĞUM GÜNÜ",
+      "YAKMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "İŞARET DİLİ",
+    "forbidden_words": [
+      "SAĞIR",
+      "KONUŞMAK",
+      "EL",
+      "HAREKET",
+      "İLETİŞİM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TAHTAKALE",
+    "forbidden_words": [
+      "İSTANBUL",
+      "ALIŞVERİŞ",
+      "ÇARŞI",
+      "UCUZ",
+      "EMİNÖNÜ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "RÖNTGENCİ",
+    "forbidden_words": [
+      "DİKİZ",
+      "GÖZETLEMEK",
+      "SAPIK",
+      "GİZLİ",
+      "BAKMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KEMAL SUNAL",
+    "forbidden_words": [
+      "SİNEMA",
+      "KOMİK",
+      "OYUNCU",
+      "HABABAM SINIFI",
+      "İNEK ŞABAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GÖRGÜ TANIĞI",
+    "forbidden_words": [
+      "DELİL",
+      "OLAY",
+      "MAHKEME",
+      "ÇAĞIRMAK",
+      "CİNAYET"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ULAK",
+    "forbidden_words": [
+      "HABER",
+      "TAŞIMAK",
+      "GÖTÜRMEK",
+      "POSTACI",
+      "AT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PÖTİBÖR",
+    "forbidden_words": [
+      "BİSKÜVİ",
+      "DİKDÖRTGEN",
+      "ÇAY",
+      "TATLI",
+      "KURABİYE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAÇIN KURASI",
+    "forbidden_words": [
+      "GÖRMEK",
+      "GEÇİRMEK",
+      "ALDANMAK",
+      "UYANIK",
+      "TECRÜBELİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ZIMBA",
+    "forbidden_words": [
+      "TUTTURMAK",
+      "KIRTASİYE",
+      "TEL",
+      "DELGEÇ",
+      "KAĞIT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PASPAL",
+    "forbidden_words": [
+      "KOKOŞ",
+      "DAĞINIK",
+      "BAKIMSIZ",
+      "ŞIK",
+      "GİYİNMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇİZME",
+    "forbidden_words": [
+      "AYAKKABI",
+      "UZUN",
+      "KADIN",
+      "ETEK",
+      "BOT"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DİDİKLEMEK",
+    "forbidden_words": [
+      "İNCELEMEK",
+      "ARAMAK",
+      "DETAY",
+      "SORUŞTURMAK",
+      "PARÇALAMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PİYAZ",
+    "forbidden_words": [
+      "SALATA",
+      "KÖFTE",
+      "KURU FASULYE",
+      "HAŞLAMAK",
+      "SOĞAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TOMBALA",
+    "forbidden_words": [
+      "YILBAŞI",
+      "OYUN",
+      "ÇİNKO",
+      "ÇEKMEK",
+      "KART"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "METRES",
+    "forbidden_words": [
+      "KARI-KOCA",
+      "EVLİ",
+      "ALDATMAK",
+      "YASAK",
+      "İLİŞKİ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KISA FİLM",
+    "forbidden_words": [
+      "SİNEMA",
+      "UZUN",
+      "FESTİVAL",
+      "DAKİKA",
+      "YÖNETMEN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ÇİFT KAŞARLI",
+    "forbidden_words": [
+      "TOST",
+      "YEMEK",
+      "PEYNİR",
+      "UZAMAK",
+      "SUCUK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KOSTA RİKA",
+    "forbidden_words": [
+      "ÜLKE",
+      "AMERİKA",
+      "ORTA",
+      "PANAMA",
+      "OKYANUS"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DAZLAK",
+    "forbidden_words": [
+      "KEL",
+      "SAÇ",
+      "DÖKÜLMEK",
+      "NEO-NAZİ",
+      "KAZITMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LODOS",
+    "forbidden_words": [
+      "RÜZGAR",
+      "POYRAZ",
+      "ESMEK",
+      "DENİZ",
+      "KARAYEL"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TAC MAHAL",
+    "forbidden_words": [
+      "HİNDİSTAN",
+      "TARİHİ",
+      "SARAY",
+      "BİNA",
+      "KUBBE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KOLAJ",
+    "forbidden_words": [
+      "RESİM",
+      "BİRLEŞTİRMEK",
+      "KAĞIT",
+      "KESMEK",
+      "YAPIŞTIRMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "MANAVGAT ŞELALESİ",
+    "forbidden_words": [
+      "DÖKÜLMEK",
+      "ANTALYA",
+      "SU",
+      "AKMAK",
+      "NEHİR"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ANTONI GAUDI",
+    "forbidden_words": [
+      "MİMAR",
+      "İSPANYA",
+      "BARCELONA",
+      "SAGRADA FAMILIA",
+      "TASARIM"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KEKLİK",
+    "forbidden_words": [
+      "HAYVAN",
+      "KUŞ",
+      "AVLAMAK",
+      "GÜVERCİN",
+      "VURMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ERZAK",
+    "forbidden_words": [
+      "YİYECEK",
+      "YOLCULUK",
+      "SAKLAMAK",
+      "KONSERVE",
+      "KİLER"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TANTANA",
+    "forbidden_words": [
+      "ŞAMATA",
+      "GÜRÜLTÜ",
+      "OLAY",
+      "GÖRKEMLİ",
+      "ŞAŞAALI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SELEKTÖR",
+    "forbidden_words": [
+      "ARABA",
+      "FAR",
+      "IŞIK",
+      "YAKMAK",
+      "UYARMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ALIN TERİ",
+    "forbidden_words": [
+      "ÇALIŞMAK",
+      "EMEK",
+      "DÖKMEK",
+      "ZAHMET",
+      "UĞRAŞMAK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ADAM ASMACA",
+    "forbidden_words": [
+      "OYUN",
+      "KELİME",
+      "BULMAK",
+      "ÇİZMEK",
+      "HARF"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SEMİNER",
+    "forbidden_words": [
+      "KONUŞMA",
+      "SUNUM",
+      "KONFERANS",
+      "EĞİTİM",
+      "TOPLANTI"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ELİPS",
+    "forbidden_words": [
+      "ŞEKİL",
+      "YUVARLAK",
+      "DAİRE",
+      "DÜNYA",
+      "ÇEMBER"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "BASAMAK",
+    "forbidden_words": [
+      "MERDİVEN",
+      "ÇIKMAK",
+      "ASANSÖR",
+      "KULLANMAK",
+      "AŞAMA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAVŞAK",
+    "forbidden_words": [
+      "DÖRT YOL",
+      "ARABA",
+      "KESİŞMEK",
+      "BİRLEŞMEK",
+      "DÖNMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ALTYAZI",
+    "forbidden_words": [
+      "SİNEMA",
+      "ÇEVİRİ",
+      "FİLM",
+      "DUBLAJ",
+      "İNGİLİZCE"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ALATURKA",
+    "forbidden_words": [
+      "ALAFRANGA",
+      "MÜZİK",
+      "ESKİ",
+      "GELENEK",
+      "TUVALET"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KANAVİÇE",
+    "forbidden_words": [
+      "ELİŞİ",
+      "KASNAK",
+      "İPLİK",
+      "İĞNE",
+      "BEZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DİSPANSER",
+    "forbidden_words": [
+      "HASTANE",
+      "DOKTOR",
+      "VEREM",
+      "SAĞLIK OCAĞI",
+      "POLİKLİNİK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "CİNSİYET",
+    "forbidden_words": [
+      "KADIN",
+      "ERKEK",
+      "DİŞİ",
+      "DOĞMAK",
+      "KİMLİK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "LORD",
+    "forbidden_words": [
+      "LEYDİ",
+      "BARON",
+      "UNVAN",
+      "İNGİLTERE",
+      "ASALET"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "REZERV",
+    "forbidden_words": [
+      "PETROL",
+      "SAKLAMAK",
+      "YEDEK",
+      "BİRİKTİRMEK",
+      "DÖVİZ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "VİCDAN AZABI",
+    "forbidden_words": [
+      "ÇEKMEK",
+      "DUYMAK",
+      "ÜZÜLMEK",
+      "ACI",
+      "KÖTÜ"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "DOMİNO",
+    "forbidden_words": [
+      "TAŞ",
+      "OYUN",
+      "DEVİRMEK",
+      "DİKDÖRTGEN",
+      "NOKTA"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "PİLATES",
+    "forbidden_words": [
+      "SPOR",
+      "EGZERSİZ",
+      "TOP",
+      "YOGA",
+      "ESNETMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "ZIRH",
+    "forbidden_words": [
+      "ŞÖVALYE",
+      "KORUMAK",
+      "SAVAŞ",
+      "METAL",
+      "GİYMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GO-KART",
+    "forbidden_words": [
+      "KÜÇÜK",
+      "FORMULA 1",
+      "MOTOR",
+      "YARIŞ",
+      "PİST"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "SABAN",
+    "forbidden_words": [
+      "TARLA",
+      "SÜRMEK",
+      "ÇİFTÇİ",
+      "TARIM",
+      "HAYVAN"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KAVUK",
+    "forbidden_words": [
+      "OSMANLI",
+      "SARIK",
+      "BAŞLIK",
+      "ŞAPKA",
+      "PADİŞAH"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "TIRIS",
+    "forbidden_words": [
+      "AT",
+      "YÜRÜMEK",
+      "DÖRTNALA",
+      "HIZLI",
+      "VIZ GELMEK"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "GICIRTI",
+    "forbidden_words": [
+      "SES",
+      "KAPI",
+      "YAĞLAMAK",
+      "TAHTA",
+      "PAS"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "KONFORLU",
+    "forbidden_words": [
+      "RAHAT",
+      "DÖŞEMEK",
+      "MOBİLYA",
+      "OTEL",
+      "EV"
+    ]
+  },
+  {
+    "_language": "TR",
+    "word": "AŞAĞI YUKARI",
+    "forbidden_words": [
+      "YAKLAŞIK",
+      "TAHMİNİ",
+      "TAM",
+      "İNMEK",
+      "ÇIKMAK"
+    ]
+  }
+]
